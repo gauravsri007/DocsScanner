@@ -1,0 +1,293 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "RemoveImageDelegate"
+- "ImagesCell"
+provides-nominal:
+- "10BharatScan19RemoveImageDelegateP"
+- "10BharatScan10ImagesCellC"
+provides-member:
+- ["10BharatScan19RemoveImageDelegateP", ""]
+- ["10BharatScan10ImagesCellC", ""]
+provides-dynamic-lookup:
+- "close_Action"
+- "delegate"
+- "img_scannedItem"
+depends-top-level:
+- "AssignmentPrecedence"
+- "ImagesCell"
+- "RemoveImageDelegate"
+- "UICollectionViewCell"
+- "UIImageView"
+depends-member:
+- ["So15CALayerDelegateP", ""]
+- !private ["So15CALayerDelegateP", "contentMode"]
+- !private ["So15CALayerDelegateP", "delegate"]
+- !private ["So15CALayerDelegateP", "img_scannedItem"]
+- ["s7CVarArgP", ""]
+- !private ["s7CVarArgP", "contentMode"]
+- !private ["s7CVarArgP", "delegate"]
+- !private ["s7CVarArgP", "img_scannedItem"]
+- !private ["So17UIViewContentModeV", "scaleAspectFit"]
+- ["s28CustomDebugStringConvertibleP", ""]
+- !private ["s28CustomDebugStringConvertibleP", "contentMode"]
+- !private ["s28CustomDebugStringConvertibleP", "delegate"]
+- !private ["s28CustomDebugStringConvertibleP", "img_scannedItem"]
+- !private ["s17CustomReflectableP", "contentMode"]
+- ["s23CustomStringConvertibleP", ""]
+- !private ["s23CustomStringConvertibleP", "contentMode"]
+- !private ["s23CustomStringConvertibleP", "delegate"]
+- !private ["s23CustomStringConvertibleP", "img_scannedItem"]
+- !private ["Se", "contentMode"]
+- !private ["SE", "contentMode"]
+- ["SQ", ""]
+- !private ["SQ", "contentMode"]
+- !private ["SQ", "delegate"]
+- !private ["SQ", "img_scannedItem"]
+- !private ["SQ", "scaleAspectFit"]
+- !private ["s23ExpressibleByNilLiteralP", "contentMode"]
+- ["SH", ""]
+- !private ["SH", "contentMode"]
+- !private ["SH", "delegate"]
+- !private ["SH", "img_scannedItem"]
+- !private ["SH", "scaleAspectFit"]
+- ["10BharatScan10ImagesCellC", "RemoveImageDelegate"]
+- ["10BharatScan10ImagesCellC", "UIImageView"]
+- ["10BharatScan10ImagesCellC", "close_Action"]
+- ["10BharatScan10ImagesCellC", "deinit"]
+- ["10BharatScan10ImagesCellC", "delegate"]
+- ["10BharatScan10ImagesCellC", "img_scannedItem"]
+- ["10BharatScan10ImagesCellC", "init"]
+- ["So8NSCodingP", ""]
+- !private ["So8NSCodingP", "contentMode"]
+- !private ["So8NSCodingP", "delegate"]
+- !private ["So8NSCodingP", "img_scannedItem"]
+- ["So8NSObjectC", "RemoveImageDelegate"]
+- ["So8NSObjectC", "UIImageView"]
+- ["So8NSObjectC", "close_Action"]
+- !private ["So8NSObjectC", "contentMode"]
+- ["So8NSObjectC", "delegate"]
+- ["So8NSObjectC", "img_scannedItem"]
+- ["So8NSObjectC", "init"]
+- ["So8NSObjectP", ""]
+- !private ["So8NSObjectP", "contentMode"]
+- !private ["So8NSObjectP", "delegate"]
+- !private ["So8NSObjectP", "img_scannedItem"]
+- !private ["Sq", "contentMode"]
+- !private ["SY", "scaleAspectFit"]
+- ["10BharatScan19RemoveImageDelegateP", "ImagesCell"]
+- ["10BharatScan19RemoveImageDelegateP", "removeClicked"]
+- !private ["So48UIAccessibilityContentSizeCategoryImageAdjustingP", "contentMode"]
+- ["So29UIAccessibilityIdentificationP", ""]
+- !private ["So29UIAccessibilityIdentificationP", "contentMode"]
+- !private ["So29UIAccessibilityIdentificationP", "delegate"]
+- !private ["So29UIAccessibilityIdentificationP", "img_scannedItem"]
+- ["So12UIAppearanceP", ""]
+- !private ["So12UIAppearanceP", "contentMode"]
+- !private ["So12UIAppearanceP", "delegate"]
+- !private ["So12UIAppearanceP", "img_scannedItem"]
+- ["So21UIAppearanceContainerP", ""]
+- !private ["So21UIAppearanceContainerP", "contentMode"]
+- !private ["So21UIAppearanceContainerP", "delegate"]
+- !private ["So21UIAppearanceContainerP", "img_scannedItem"]
+- ["So24UICollectionReusableViewC", "RemoveImageDelegate"]
+- ["So24UICollectionReusableViewC", "UIImageView"]
+- ["So24UICollectionReusableViewC", "close_Action"]
+- ["So24UICollectionReusableViewC", "delegate"]
+- ["So24UICollectionReusableViewC", "img_scannedItem"]
+- ["So24UICollectionReusableViewC", "init"]
+- ["So20UICollectionViewCellC", "RemoveImageDelegate"]
+- ["So20UICollectionViewCellC", "UIImageView"]
+- ["So20UICollectionViewCellC", ""]
+- ["So20UICollectionViewCellC", "close_Action"]
+- ["So20UICollectionViewCellC", "delegate"]
+- ["So20UICollectionViewCellC", "img_scannedItem"]
+- ["So20UICollectionViewCellC", "init"]
+- ["So17UICoordinateSpaceP", ""]
+- !private ["So17UICoordinateSpaceP", "contentMode"]
+- !private ["So17UICoordinateSpaceP", "delegate"]
+- !private ["So17UICoordinateSpaceP", "img_scannedItem"]
+- ["So13UIDynamicItemP", ""]
+- !private ["So13UIDynamicItemP", "contentMode"]
+- !private ["So13UIDynamicItemP", "delegate"]
+- !private ["So13UIDynamicItemP", "img_scannedItem"]
+- ["So18UIFocusEnvironmentP", ""]
+- !private ["So18UIFocusEnvironmentP", "contentMode"]
+- !private ["So18UIFocusEnvironmentP", "delegate"]
+- !private ["So18UIFocusEnvironmentP", "img_scannedItem"]
+- ["So11UIFocusItemP", ""]
+- !private ["So11UIFocusItemP", "contentMode"]
+- !private ["So11UIFocusItemP", "delegate"]
+- !private ["So11UIFocusItemP", "img_scannedItem"]
+- ["So20UIFocusItemContainerP", ""]
+- !private ["So20UIFocusItemContainerP", "contentMode"]
+- !private ["So20UIFocusItemContainerP", "delegate"]
+- !private ["So20UIFocusItemContainerP", "img_scannedItem"]
+- !private ["So11UIImageViewC", "contentMode"]
+- ["So24UILargeContentViewerItemP", ""]
+- !private ["So24UILargeContentViewerItemP", "contentMode"]
+- !private ["So24UILargeContentViewerItemP", "delegate"]
+- !private ["So24UILargeContentViewerItemP", "img_scannedItem"]
+- ["So30UIPasteConfigurationSupportingP", ""]
+- !private ["So30UIPasteConfigurationSupportingP", "contentMode"]
+- !private ["So30UIPasteConfigurationSupportingP", "delegate"]
+- !private ["So30UIPasteConfigurationSupportingP", "img_scannedItem"]
+- ["So11UIResponderC", "RemoveImageDelegate"]
+- ["So11UIResponderC", "UIImageView"]
+- ["So11UIResponderC", "close_Action"]
+- !private ["So11UIResponderC", "contentMode"]
+- ["So11UIResponderC", "delegate"]
+- ["So11UIResponderC", "img_scannedItem"]
+- ["So11UIResponderC", "init"]
+- ["So30UIResponderStandardEditActionsP", ""]
+- !private ["So30UIResponderStandardEditActionsP", "contentMode"]
+- !private ["So30UIResponderStandardEditActionsP", "delegate"]
+- !private ["So30UIResponderStandardEditActionsP", "img_scannedItem"]
+- ["So18UITraitEnvironmentP", ""]
+- !private ["So18UITraitEnvironmentP", "contentMode"]
+- !private ["So18UITraitEnvironmentP", "delegate"]
+- !private ["So18UITraitEnvironmentP", "img_scannedItem"]
+- ["So23UIUserActivityRestoringP", ""]
+- !private ["So23UIUserActivityRestoringP", "contentMode"]
+- !private ["So23UIUserActivityRestoringP", "delegate"]
+- !private ["So23UIUserActivityRestoringP", "img_scannedItem"]
+- ["So6UIViewC", "RemoveImageDelegate"]
+- ["So6UIViewC", "UIImageView"]
+- ["So6UIViewC", "close_Action"]
+- !private ["So6UIViewC", "contentMode"]
+- ["So6UIViewC", "delegate"]
+- ["So6UIViewC", "img_scannedItem"]
+- ["So6UIViewC", "init"]
+- ["10Foundation27_KeyValueCodingAndObservingP", ""]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "contentMode"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "delegate"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "img_scannedItem"]
+- ["10Foundation37_KeyValueCodingAndObservingPublishingP", ""]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "contentMode"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "delegate"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "img_scannedItem"]
+- !private ["s21_ObjectiveCBridgeableP", "contentMode"]
+- ["s38__DefaultCustomPlaygroundQuickLookableP", ""]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "contentMode"]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "delegate"]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "img_scannedItem"]
+depends-nominal:
+- "So15CALayerDelegateP"
+- "s7CVarArgP"
+- !private "So17UIViewContentModeV"
+- "s28CustomDebugStringConvertibleP"
+- !private "s17CustomReflectableP"
+- "s23CustomStringConvertibleP"
+- !private "Se"
+- !private "SE"
+- "SQ"
+- !private "s23ExpressibleByNilLiteralP"
+- "SH"
+- "10BharatScan10ImagesCellC"
+- "So8NSCodingP"
+- "So8NSObjectC"
+- "So8NSObjectP"
+- !private "Sq"
+- !private "SY"
+- "10BharatScan19RemoveImageDelegateP"
+- !private "So48UIAccessibilityContentSizeCategoryImageAdjustingP"
+- "So29UIAccessibilityIdentificationP"
+- "So12UIAppearanceP"
+- "So21UIAppearanceContainerP"
+- "So24UICollectionReusableViewC"
+- "So20UICollectionViewCellC"
+- "So17UICoordinateSpaceP"
+- "So13UIDynamicItemP"
+- "So18UIFocusEnvironmentP"
+- "So11UIFocusItemP"
+- "So20UIFocusItemContainerP"
+- !private "So11UIImageViewC"
+- "So24UILargeContentViewerItemP"
+- "So30UIPasteConfigurationSupportingP"
+- "So11UIResponderC"
+- "So30UIResponderStandardEditActionsP"
+- "So18UITraitEnvironmentP"
+- "So23UIUserActivityRestoringP"
+- "So6UIViewC"
+- "10Foundation27_KeyValueCodingAndObservingP"
+- "10Foundation37_KeyValueCodingAndObservingPublishingP"
+- !private "s21_ObjectiveCBridgeableP"
+- "s38__DefaultCustomPlaygroundQuickLookableP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/ObjectiveC.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreMIDI.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreML.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreMedia.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/simd.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreImage.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/QuartzCore.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Accelerate.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Dispatch.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Metal.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Darwin.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Vision.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Foundation.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/AVFoundation.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreFoundation.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreAudio.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreGraphics.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/os.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Swift.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/UIKit.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/SwiftOnoneSupport.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Combine.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Users/kumargaurav/Documents/My Projects/Scanner App/BharatScan/Build/Products/Debug-iphonesimulator/Alamofire/Alamofire.framework/Modules/Alamofire.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Users/kumargaurav/Documents/My Projects/Scanner App/BharatScan/Build/Products/Debug-iphonesimulator/IHKeyboardAvoiding/IHKeyboardAvoiding.framework/Modules/IHKeyboardAvoiding.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Users/kumargaurav/Documents/My Projects/Scanner App/BharatScan/Build/Products/Debug-iphonesimulator/WeScan/WeScan.framework/Modules/WeScan.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Users/kumargaurav/Documents/My Projects/Scanner App/BharatScan/Build/Products/Debug-iphonesimulator/BRYXBanner/BRYXBanner.framework/Modules/BRYXBanner.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Users/kumargaurav/Documents/My Projects/Scanner App/BharatScan/Build/Products/Debug-iphonesimulator/Hover/Hover.framework/Modules/Hover.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Users/kumargaurav/Documents/My Projects/Scanner App/BharatScan/Build/Products/Debug-iphonesimulator/ReachabilitySwift/Reachability.framework/Modules/Reachability.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Users/kumargaurav/Documents/My Projects/Scanner App/BharatScan/Build/Products/Debug-iphonesimulator/MBProgressHUD/MBProgressHUD.framework/Headers/MBProgressHUD.h"
+- "/Users/kumargaurav/Documents/My Projects/Scanner App/BharatScan/Build/Products/Debug-iphonesimulator/MBProgressHUD/MBProgressHUD.framework/Headers/MBProgressHUD-umbrella.h"
+- "/Users/kumargaurav/Documents/My Projects/Scanner App/BharatScan/Build/Products/Debug-iphonesimulator/Alamofire/Alamofire.framework/Headers/Alamofire-umbrella.h"
+- "/Users/kumargaurav/Documents/My Projects/Scanner App/BharatScan/Build/Products/Debug-iphonesimulator/IHKeyboardAvoiding/IHKeyboardAvoiding.framework/Headers/IHKeyboardAvoiding-umbrella.h"
+- "/Users/kumargaurav/Documents/My Projects/Scanner App/BharatScan/Build/Products/Debug-iphonesimulator/WeScan/WeScan.framework/Headers/WeScan-umbrella.h"
+- "/Users/kumargaurav/Documents/My Projects/Scanner App/BharatScan/Build/Products/Debug-iphonesimulator/BRYXBanner/BRYXBanner.framework/Headers/BRYXBanner-umbrella.h"
+- "/Users/kumargaurav/Documents/My Projects/Scanner App/BharatScan/Build/Products/Debug-iphonesimulator/Hover/Hover.framework/Headers/Hover-umbrella.h"
+- "/Users/kumargaurav/Documents/My Projects/Scanner App/BharatScan/Build/Products/Debug-iphonesimulator/ReachabilitySwift/Reachability.framework/Headers/ReachabilitySwift-umbrella.h"
+- "/Users/kumargaurav/Documents/My Projects/Scanner App/BharatScan/Build/Products/Debug-iphonesimulator/WeScan/WeScan.framework/Headers/WeScan.h"
+- "/Users/kumargaurav/Documents/My Projects/Scanner App/BharatScan/BharatScan/Utilities/BharatScan-Bridging-Header.h"
+- "/Users/kumargaurav/Documents/My Projects/Scanner App/BharatScan/Build/Products/Debug-iphonesimulator/Alamofire/Alamofire.framework/Headers/Alamofire-Swift.h"
+- "/Users/kumargaurav/Documents/My Projects/Scanner App/BharatScan/Build/Products/Debug-iphonesimulator/IHKeyboardAvoiding/IHKeyboardAvoiding.framework/Headers/IHKeyboardAvoiding-Swift.h"
+- "/Users/kumargaurav/Documents/My Projects/Scanner App/BharatScan/Build/Products/Debug-iphonesimulator/WeScan/WeScan.framework/Headers/WeScan-Swift.h"
+- "/Users/kumargaurav/Documents/My Projects/Scanner App/BharatScan/Build/Products/Debug-iphonesimulator/BRYXBanner/BRYXBanner.framework/Headers/BRYXBanner-Swift.h"
+- "/Users/kumargaurav/Documents/My Projects/Scanner App/BharatScan/Build/Products/Debug-iphonesimulator/Hover/Hover.framework/Headers/Hover-Swift.h"
+- "/Users/kumargaurav/Documents/My Projects/Scanner App/BharatScan/Build/Products/Debug-iphonesimulator/ReachabilitySwift/Reachability.framework/Headers/Reachability-Swift.h"
+- "/Users/kumargaurav/Documents/My Projects/Scanner App/BharatScan/Build/Products/Debug-iphonesimulator/MBProgressHUD/MBProgressHUD.framework/Modules/module.modulemap"
+- "/Users/kumargaurav/Documents/My Projects/Scanner App/BharatScan/Build/Products/Debug-iphonesimulator/Alamofire/Alamofire.framework/Modules/module.modulemap"
+- "/Users/kumargaurav/Documents/My Projects/Scanner App/BharatScan/Build/Products/Debug-iphonesimulator/IHKeyboardAvoiding/IHKeyboardAvoiding.framework/Modules/module.modulemap"
+- "/Users/kumargaurav/Documents/My Projects/Scanner App/BharatScan/Build/Products/Debug-iphonesimulator/WeScan/WeScan.framework/Modules/module.modulemap"
+- "/Users/kumargaurav/Documents/My Projects/Scanner App/BharatScan/Build/Products/Debug-iphonesimulator/BRYXBanner/BRYXBanner.framework/Modules/module.modulemap"
+- "/Users/kumargaurav/Documents/My Projects/Scanner App/BharatScan/Build/Products/Debug-iphonesimulator/Hover/Hover.framework/Modules/module.modulemap"
+- "/Users/kumargaurav/Documents/My Projects/Scanner App/BharatScan/Build/Products/Debug-iphonesimulator/ReachabilitySwift/Reachability.framework/Modules/module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.7.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.7.sdk/System/Library/Frameworks/CoreML.framework/Headers/CoreML.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.7.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.7.sdk/System/Library/Frameworks/CoreMedia.framework/Headers/CoreMedia.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.7.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.7.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.7.sdk/System/Library/Frameworks/Accelerate.framework/Headers/Accelerate.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/apinotes/Dispatch.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.7.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.7.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.7.sdk/System/Library/Frameworks/Vision.framework/Headers/Vision.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.7.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.7.sdk/System/Library/Frameworks/AVFoundation.framework/Headers/AVFoundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.7.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.7.sdk/System/Library/Frameworks/CoreAudioTypes.framework/Headers/CoreAudioTypes.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.7.sdk/System/Library/Frameworks/UserNotifications.framework/Headers/UserNotifications.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/apinotes/os.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.7.sdk/System/Library/Frameworks/PDFKit.framework/Headers/PDFKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.7.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.7.sdk/System/Library/Frameworks/WebKit.framework/Headers/WebKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.7.sdk/System/Library/Frameworks/VisionKit.framework/Headers/VisionKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.7.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.7.sdk/System/Library/Frameworks/MediaToolbox.framework/Headers/MediaToolbox.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.7.sdk/System/Library/Frameworks/AudioToolbox.framework/Headers/AudioToolbox.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.7.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "d52961ec3cfd098f9db2737ddea99286"

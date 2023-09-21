@@ -1,0 +1,365 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "VisionRectangleDetector"
+provides-nominal:
+- "6WeScan23VisionRectangleDetectorO"
+provides-member:
+- ["6WeScan23VisionRectangleDetectorO", ""]
+provides-dynamic-lookup:
+depends-top-level:
+- !private "!"
+- !private "=="
+- !private "AssignmentPrecedence"
+- !private "CGAffineTransform"
+- "CGFloat"
+- "CGImagePropertyOrientation"
+- "CIImage"
+- "CVPixelBuffer"
+- !private "CVPixelBufferGetHeight"
+- !private "CVPixelBufferGetWidth"
+- !private "CastingPrecedence"
+- "FloatLiteralType"
+- "IntegerLiteralType"
+- "Quadrilateral"
+- !private "VNDetectRectanglesRequest"
+- "VNImageRequestHandler"
+- !private "VNRectangleObservation"
+- "VisionRectangleDetector"
+- "Void"
+depends-member:
+- !private ["s18AdditiveArithmeticP", "init"]
+- !private ["Sa", "biggest"]
+- !private ["Sa", "isEmpty"]
+- !private ["Sa", "map"]
+- !private ["SK", "biggest"]
+- !private ["SK", "isEmpty"]
+- !private ["SK", "map"]
+- !private ["SB", "init"]
+- !private ["So17CGAffineTransformV", "identity"]
+- !private ["So17CGAffineTransformV", "scaledBy"]
+- !private ["12CoreGraphics7CGFloatV", "init"]
+- !private ["So6CGRectV", "height"]
+- !private ["So6CGRectV", "width"]
+- !private ["So7CIImageC", "extent"]
+- !private ["So7CIImageC", "oriented"]
+- !private ["s7CVarArgP", "biggest"]
+- !private ["s7CVarArgP", "extent"]
+- !private ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "isEmpty"]
+- !private ["s7CVarArgP", "map"]
+- !private ["s7CVarArgP", "maximumObservations"]
+- !private ["s7CVarArgP", "minimumAspectRatio"]
+- !private ["s7CVarArgP", "minimumConfidence"]
+- !private ["s7CVarArgP", "oriented"]
+- !private ["s7CVarArgP", "perform"]
+- !private ["s7CVarArgP", "results"]
+- !private ["Sl", "biggest"]
+- !private ["Sl", "isEmpty"]
+- !private ["Sl", "map"]
+- !private ["SL", "init"]
+- !private ["10Foundation15ContiguousBytesP", "biggest"]
+- !private ["10Foundation15ContiguousBytesP", "isEmpty"]
+- !private ["10Foundation15ContiguousBytesP", "map"]
+- !private ["s28CustomDebugStringConvertibleP", "biggest"]
+- !private ["s28CustomDebugStringConvertibleP", "extent"]
+- !private ["s28CustomDebugStringConvertibleP", "height"]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "isEmpty"]
+- !private ["s28CustomDebugStringConvertibleP", "map"]
+- !private ["s28CustomDebugStringConvertibleP", "maximumObservations"]
+- !private ["s28CustomDebugStringConvertibleP", "minimumAspectRatio"]
+- !private ["s28CustomDebugStringConvertibleP", "minimumConfidence"]
+- !private ["s28CustomDebugStringConvertibleP", "oriented"]
+- !private ["s28CustomDebugStringConvertibleP", "perform"]
+- !private ["s28CustomDebugStringConvertibleP", "results"]
+- !private ["s28CustomDebugStringConvertibleP", "width"]
+- !private ["s17CustomReflectableP", "biggest"]
+- !private ["s17CustomReflectableP", "height"]
+- !private ["s17CustomReflectableP", "init"]
+- !private ["s17CustomReflectableP", "isEmpty"]
+- !private ["s17CustomReflectableP", "map"]
+- !private ["s17CustomReflectableP", "width"]
+- !private ["s23CustomStringConvertibleP", "biggest"]
+- !private ["s23CustomStringConvertibleP", "extent"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "isEmpty"]
+- !private ["s23CustomStringConvertibleP", "map"]
+- !private ["s23CustomStringConvertibleP", "maximumObservations"]
+- !private ["s23CustomStringConvertibleP", "minimumAspectRatio"]
+- !private ["s23CustomStringConvertibleP", "minimumConfidence"]
+- !private ["s23CustomStringConvertibleP", "oriented"]
+- !private ["s23CustomStringConvertibleP", "perform"]
+- !private ["s23CustomStringConvertibleP", "results"]
+- !private ["10Foundation12DataProtocolP", "biggest"]
+- !private ["10Foundation12DataProtocolP", "isEmpty"]
+- !private ["10Foundation12DataProtocolP", "map"]
+- !private ["Se", "biggest"]
+- !private ["Se", "height"]
+- !private ["Se", "identity"]
+- !private ["Se", "init"]
+- !private ["Se", "isEmpty"]
+- !private ["Se", "map"]
+- !private ["Se", "scaledBy"]
+- !private ["Se", "width"]
+- !private ["SE", "biggest"]
+- !private ["SE", "height"]
+- !private ["SE", "identity"]
+- !private ["SE", "init"]
+- !private ["SE", "isEmpty"]
+- !private ["SE", "map"]
+- !private ["SE", "scaledBy"]
+- !private ["SE", "width"]
+- !private ["SQ", "applying"]
+- !private ["SQ", "biggest"]
+- !private ["SQ", "extent"]
+- !private ["SQ", "height"]
+- !private ["SQ", "identity"]
+- !private ["SQ", "init"]
+- !private ["SQ", "isEmpty"]
+- !private ["SQ", "map"]
+- !private ["SQ", "maximumObservations"]
+- !private ["SQ", "minimumAspectRatio"]
+- !private ["SQ", "minimumConfidence"]
+- !private ["SQ", "oriented"]
+- !private ["SQ", "perform"]
+- !private ["SQ", "results"]
+- !private ["SQ", "scaledBy"]
+- !private ["SQ", "width"]
+- !private ["s25ExpressibleByArrayLiteralP", "biggest"]
+- !private ["s25ExpressibleByArrayLiteralP", "isEmpty"]
+- !private ["s25ExpressibleByArrayLiteralP", "map"]
+- !private ["s25ExpressibleByFloatLiteralP", "init"]
+- !private ["s27ExpressibleByIntegerLiteralP", "init"]
+- !private ["SF", "init"]
+- !private ["SH", "biggest"]
+- !private ["SH", "extent"]
+- !private ["SH", "init"]
+- !private ["SH", "isEmpty"]
+- !private ["SH", "map"]
+- !private ["SH", "maximumObservations"]
+- !private ["SH", "minimumAspectRatio"]
+- !private ["SH", "minimumConfidence"]
+- !private ["SH", "oriented"]
+- !private ["SH", "perform"]
+- !private ["SH", "results"]
+- !private ["SM", "biggest"]
+- !private ["SM", "isEmpty"]
+- !private ["SM", "map"]
+- !private ["10Foundation19MutableDataProtocolP", "biggest"]
+- !private ["10Foundation19MutableDataProtocolP", "isEmpty"]
+- !private ["10Foundation19MutableDataProtocolP", "map"]
+- !private ["So8NSCodingP", "extent"]
+- !private ["So8NSCodingP", "oriented"]
+- !private ["So9NSCopyingP", "extent"]
+- !private ["So9NSCopyingP", "init"]
+- !private ["So9NSCopyingP", "maximumObservations"]
+- !private ["So9NSCopyingP", "minimumAspectRatio"]
+- !private ["So9NSCopyingP", "minimumConfidence"]
+- !private ["So9NSCopyingP", "oriented"]
+- !private ["So9NSCopyingP", "results"]
+- !private ["So8NSObjectC", "extent"]
+- !private ["So8NSObjectC", "init"]
+- !private ["So8NSObjectC", "maximumObservations"]
+- !private ["So8NSObjectC", "minimumAspectRatio"]
+- !private ["So8NSObjectC", "minimumConfidence"]
+- !private ["So8NSObjectC", "oriented"]
+- !private ["So8NSObjectC", "perform"]
+- !private ["So8NSObjectC", "results"]
+- !private ["So8NSObjectP", "extent"]
+- !private ["So8NSObjectP", "init"]
+- !private ["So8NSObjectP", "maximumObservations"]
+- !private ["So8NSObjectP", "minimumAspectRatio"]
+- !private ["So8NSObjectP", "minimumConfidence"]
+- !private ["So8NSObjectP", "oriented"]
+- !private ["So8NSObjectP", "perform"]
+- !private ["So8NSObjectP", "results"]
+- !private ["So14NSSecureCodingP", "extent"]
+- !private ["So14NSSecureCodingP", "oriented"]
+- !private ["Sj", "init"]
+- !private ["6WeScan13QuadrilateralV", "applying"]
+- !private ["6WeScan13QuadrilateralV", "deinit"]
+- !private ["6WeScan13QuadrilateralV", "init"]
+- !private ["Sk", "biggest"]
+- !private ["Sk", "isEmpty"]
+- !private ["Sk", "map"]
+- !private ["Sm", "biggest"]
+- !private ["Sm", "isEmpty"]
+- !private ["Sm", "map"]
+- !private ["ST", "biggest"]
+- !private ["ST", "isEmpty"]
+- !private ["ST", "map"]
+- !private ["s13SignedNumericP", "init"]
+- !private ["Sx", "init"]
+- !private ["6WeScan13TransformableP", "applying"]
+- !private ["6WeScan13TransformableP", "init"]
+- !private ["So25VNDetectRectanglesRequestC", "init"]
+- !private ["So25VNDetectRectanglesRequestC", "maximumObservations"]
+- !private ["So25VNDetectRectanglesRequestC", "minimumAspectRatio"]
+- !private ["So25VNDetectRectanglesRequestC", "minimumConfidence"]
+- !private ["So19VNImageBasedRequestC", "init"]
+- !private ["So19VNImageBasedRequestC", "maximumObservations"]
+- !private ["So19VNImageBasedRequestC", "minimumAspectRatio"]
+- !private ["So19VNImageBasedRequestC", "minimumConfidence"]
+- !private ["So21VNImageRequestHandlerC", "init"]
+- !private ["So21VNImageRequestHandlerC", "perform"]
+- !private ["So9VNRequestC", "init"]
+- !private ["So9VNRequestC", "maximumObservations"]
+- !private ["So9VNRequestC", "minimumAspectRatio"]
+- !private ["So9VNRequestC", "minimumConfidence"]
+- !private ["So9VNRequestC", "results"]
+- !private ["6WeScan23VisionRectangleDetectorO", "CGAffineTransform"]
+- ["6WeScan23VisionRectangleDetectorO", "CGFloat"]
+- ["6WeScan23VisionRectangleDetectorO", "CGImagePropertyOrientation"]
+- ["6WeScan23VisionRectangleDetectorO", "CIImage"]
+- ["6WeScan23VisionRectangleDetectorO", "CVPixelBuffer"]
+- !private ["6WeScan23VisionRectangleDetectorO", "CVPixelBufferGetHeight"]
+- !private ["6WeScan23VisionRectangleDetectorO", "CVPixelBufferGetWidth"]
+- ["6WeScan23VisionRectangleDetectorO", "Quadrilateral"]
+- !private ["6WeScan23VisionRectangleDetectorO", "VNDetectRectanglesRequest"]
+- ["6WeScan23VisionRectangleDetectorO", "VNImageRequestHandler"]
+- !private ["6WeScan23VisionRectangleDetectorO", "VNRectangleObservation"]
+- !private ["6WeScan23VisionRectangleDetectorO", "VisionRectangleDetector"]
+- ["6WeScan23VisionRectangleDetectorO", "Void"]
+- !private ["6WeScan23VisionRectangleDetectorO", "completeImageRequest"]
+- ["6WeScan23VisionRectangleDetectorO", "rectangle"]
+- !private ["s14_ArrayProtocolP", "biggest"]
+- !private ["s14_ArrayProtocolP", "isEmpty"]
+- !private ["s14_ArrayProtocolP", "map"]
+- !private ["s15_CVarArgAlignedP", "init"]
+- !private ["s22_CVarArgPassedAsDoubleP", "init"]
+- !private ["s30_CustomPlaygroundQuickLookableP", "height"]
+- !private ["s30_CustomPlaygroundQuickLookableP", "width"]
+- !private ["s24_DestructorSafeContainerP", "biggest"]
+- !private ["s24_DestructorSafeContainerP", "isEmpty"]
+- !private ["s24_DestructorSafeContainerP", "map"]
+- !private ["s19_HasContiguousBytesP", "biggest"]
+- !private ["s19_HasContiguousBytesP", "isEmpty"]
+- !private ["s19_HasContiguousBytesP", "map"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "biggest"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "isEmpty"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "map"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "extent"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "maximumObservations"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "minimumAspectRatio"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "minimumConfidence"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "oriented"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "perform"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "results"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "extent"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "init"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "maximumObservations"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "minimumAspectRatio"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "minimumConfidence"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "oriented"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "perform"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "results"]
+- !private ["s21_ObjectiveCBridgeableP", "biggest"]
+- !private ["s21_ObjectiveCBridgeableP", "height"]
+- !private ["s21_ObjectiveCBridgeableP", "identity"]
+- !private ["s21_ObjectiveCBridgeableP", "init"]
+- !private ["s21_ObjectiveCBridgeableP", "isEmpty"]
+- !private ["s21_ObjectiveCBridgeableP", "map"]
+- !private ["s21_ObjectiveCBridgeableP", "scaledBy"]
+- !private ["s21_ObjectiveCBridgeableP", "width"]
+depends-nominal:
+- !private "s18AdditiveArithmeticP"
+- !private "Sa"
+- !private "SK"
+- !private "SB"
+- !private "So17CGAffineTransformV"
+- !private "12CoreGraphics7CGFloatV"
+- !private "So6CGRectV"
+- !private "So7CIImageC"
+- !private "s7CVarArgP"
+- !private "Sl"
+- !private "SL"
+- !private "10Foundation15ContiguousBytesP"
+- !private "s28CustomDebugStringConvertibleP"
+- !private "s17CustomReflectableP"
+- !private "s23CustomStringConvertibleP"
+- !private "10Foundation12DataProtocolP"
+- !private "Se"
+- !private "SE"
+- !private "SQ"
+- !private "s25ExpressibleByArrayLiteralP"
+- !private "s25ExpressibleByFloatLiteralP"
+- !private "s27ExpressibleByIntegerLiteralP"
+- !private "SF"
+- !private "SH"
+- !private "SM"
+- !private "10Foundation19MutableDataProtocolP"
+- !private "So8NSCodingP"
+- !private "So9NSCopyingP"
+- !private "So8NSObjectC"
+- !private "So8NSObjectP"
+- !private "So14NSSecureCodingP"
+- !private "Sj"
+- !private "6WeScan13QuadrilateralV"
+- !private "Sk"
+- !private "Sm"
+- !private "ST"
+- !private "s13SignedNumericP"
+- !private "Sx"
+- !private "6WeScan13TransformableP"
+- !private "So25VNDetectRectanglesRequestC"
+- !private "So19VNImageBasedRequestC"
+- !private "So21VNImageRequestHandlerC"
+- !private "So9VNRequestC"
+- "6WeScan23VisionRectangleDetectorO"
+- !private "s14_ArrayProtocolP"
+- !private "s15_CVarArgAlignedP"
+- !private "s22_CVarArgPassedAsDoubleP"
+- !private "s30_CustomPlaygroundQuickLookableP"
+- !private "s24_DestructorSafeContainerP"
+- !private "s19_HasContiguousBytesP"
+- !private "s35_HasCustomAnyHashableRepresentationP"
+- !private "10Foundation27_KeyValueCodingAndObservingP"
+- !private "10Foundation37_KeyValueCodingAndObservingPublishingP"
+- !private "s21_ObjectiveCBridgeableP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/ObjectiveC.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreMIDI.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreML.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreMedia.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/simd.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreImage.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/QuartzCore.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Dispatch.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Metal.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Darwin.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Vision.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Foundation.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/AVFoundation.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreFoundation.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreAudio.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreGraphics.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Swift.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/UIKit.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/SwiftOnoneSupport.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Combine.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Users/kumargaurav/Documents/My Projects/Scanner App/BharatScan/Pods/Target Support Files/WeScan/WeScan-umbrella.h"
+- "/Users/kumargaurav/Documents/My Projects/Scanner App/BharatScan/Pods/WeScan/WeScan/WeScan.h"
+- "/Users/kumargaurav/Documents/My Projects/Scanner App/BharatScan/Build/Intermediates/Pods.build/Debug-iphonesimulator/WeScan.build/unextended-module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.7.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.7.sdk/System/Library/Frameworks/CoreML.framework/Headers/CoreML.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.7.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.7.sdk/System/Library/Frameworks/CoreMedia.framework/Headers/CoreMedia.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.7.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.7.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/apinotes/Dispatch.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.7.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.7.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.7.sdk/System/Library/Frameworks/Vision.framework/Headers/Vision.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.7.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.7.sdk/System/Library/Frameworks/AVFoundation.framework/Headers/AVFoundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.7.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.7.sdk/System/Library/Frameworks/CoreAudioTypes.framework/Headers/CoreAudioTypes.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.7.sdk/System/Library/Frameworks/UserNotifications.framework/Headers/UserNotifications.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.7.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.7.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.7.sdk/System/Library/Frameworks/MediaToolbox.framework/Headers/MediaToolbox.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.7.sdk/System/Library/Frameworks/AudioToolbox.framework/Headers/AudioToolbox.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.7.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "c196837ae42da2890310bf96f8e9bf7a"

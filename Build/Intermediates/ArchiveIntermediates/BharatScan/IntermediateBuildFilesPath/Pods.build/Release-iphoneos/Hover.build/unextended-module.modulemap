@@ -1,0 +1,10 @@
+framework module Hover {
+  umbrella header "Hover-umbrella.h"
+
+  export *
+  module * { export * }
+}
+
+module Hover.__Swift {
+    exclude header "Hover-Swift.h"
+}

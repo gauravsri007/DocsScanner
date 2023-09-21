@@ -1,0 +1,5 @@
+version: "Apple Swift version 5.2.4 (swiftlang-1103.0.32.9 clang-1103.0.32.53)"
+options: "935167cea3ff9a477a54b3ff4995e9e3"
+build_time: [1601879175, 206337000]
+inputs:
+  "/Users/kumargaurav/Documents/My Projects/Scanner App/BharatScan/Pods/ReachabilitySwift/Sources/Reachability.swift": [9223372036, 854775807]

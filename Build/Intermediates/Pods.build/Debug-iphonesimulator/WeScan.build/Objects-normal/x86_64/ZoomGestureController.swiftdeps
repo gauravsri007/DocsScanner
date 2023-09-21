@@ -1,0 +1,448 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "ZoomGestureController"
+provides-nominal:
+- "6WeScan21ZoomGestureControllerC"
+provides-member:
+- ["6WeScan21ZoomGestureControllerC", ""]
+provides-dynamic-lookup:
+- "closestCorner"
+- "handle"
+- "image"
+- "previousPanPosition"
+- "quadView"
+depends-top-level:
+- !private "!="
+- !private "*"
+- !private "-"
+- !private "/"
+- !private "??"
+- "AssignmentPrecedence"
+- !private "CGAffineTransform"
+- "CGPoint"
+- "CornerPosition"
+- !private "FloatLiteralType"
+- "QuadrilateralView"
+- "UIGestureRecognizer"
+- "UIImage"
+- "ZoomGestureController"
+depends-member:
+- !private ["So15CALayerDelegateP", "bounds"]
+- !private ["So15CALayerDelegateP", "center"]
+- !private ["So15CALayerDelegateP", "cornerViewForCornerPosition"]
+- !private ["So15CALayerDelegateP", "highlightCornerAtPosition"]
+- !private ["So15CALayerDelegateP", "moveCorner"]
+- !private ["So15CALayerDelegateP", "quad"]
+- !private ["So15CALayerDelegateP", "resetHighlightedCornerViews"]
+- !private ["So17CGAffineTransformV", "init"]
+- !private ["So7CGPointV", "applying"]
+- !private ["So7CGPointV", "closestCornerFrom"]
+- !private ["So7CGPointV", "init"]
+- !private ["So7CGPointV", "x"]
+- !private ["So7CGPointV", "y"]
+- !private ["So6CGRectV", "size"]
+- !private ["So6CGSizeV", "width"]
+- !private ["s7CVarArgP", "bounds"]
+- !private ["s7CVarArgP", "center"]
+- !private ["s7CVarArgP", "cornerViewForCornerPosition"]
+- !private ["s7CVarArgP", "highlightCornerAtPosition"]
+- !private ["s7CVarArgP", "location"]
+- !private ["s7CVarArgP", "moveCorner"]
+- !private ["s7CVarArgP", "quad"]
+- !private ["s7CVarArgP", "resetHighlightedCornerViews"]
+- !private ["s7CVarArgP", "scaledImage"]
+- !private ["s7CVarArgP", "size"]
+- !private ["s7CVarArgP", "state"]
+- !private ["s28CustomDebugStringConvertibleP", "applying"]
+- !private ["s28CustomDebugStringConvertibleP", "bounds"]
+- !private ["s28CustomDebugStringConvertibleP", "center"]
+- !private ["s28CustomDebugStringConvertibleP", "closestCornerFrom"]
+- !private ["s28CustomDebugStringConvertibleP", "cornerViewForCornerPosition"]
+- !private ["s28CustomDebugStringConvertibleP", "highlightCornerAtPosition"]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "location"]
+- !private ["s28CustomDebugStringConvertibleP", "moveCorner"]
+- !private ["s28CustomDebugStringConvertibleP", "quad"]
+- !private ["s28CustomDebugStringConvertibleP", "resetHighlightedCornerViews"]
+- !private ["s28CustomDebugStringConvertibleP", "scaledImage"]
+- !private ["s28CustomDebugStringConvertibleP", "size"]
+- !private ["s28CustomDebugStringConvertibleP", "state"]
+- !private ["s28CustomDebugStringConvertibleP", "width"]
+- !private ["s28CustomDebugStringConvertibleP", "x"]
+- !private ["s28CustomDebugStringConvertibleP", "y"]
+- !private ["s17CustomReflectableP", "applying"]
+- !private ["s17CustomReflectableP", "closestCornerFrom"]
+- !private ["s17CustomReflectableP", "init"]
+- !private ["s17CustomReflectableP", "size"]
+- !private ["s17CustomReflectableP", "width"]
+- !private ["s17CustomReflectableP", "x"]
+- !private ["s17CustomReflectableP", "y"]
+- !private ["s23CustomStringConvertibleP", "bounds"]
+- !private ["s23CustomStringConvertibleP", "center"]
+- !private ["s23CustomStringConvertibleP", "cornerViewForCornerPosition"]
+- !private ["s23CustomStringConvertibleP", "highlightCornerAtPosition"]
+- !private ["s23CustomStringConvertibleP", "location"]
+- !private ["s23CustomStringConvertibleP", "moveCorner"]
+- !private ["s23CustomStringConvertibleP", "quad"]
+- !private ["s23CustomStringConvertibleP", "resetHighlightedCornerViews"]
+- !private ["s23CustomStringConvertibleP", "scaledImage"]
+- !private ["s23CustomStringConvertibleP", "size"]
+- !private ["s23CustomStringConvertibleP", "state"]
+- !private ["Se", "applying"]
+- !private ["Se", "closestCornerFrom"]
+- !private ["Se", "init"]
+- !private ["Se", "size"]
+- !private ["Se", "width"]
+- !private ["Se", "x"]
+- !private ["Se", "y"]
+- !private ["6WeScan04EditB10CornerViewC", "center"]
+- !private ["6WeScan04EditB10CornerViewC", "deinit"]
+- !private ["SE", "applying"]
+- !private ["SE", "closestCornerFrom"]
+- !private ["SE", "init"]
+- !private ["SE", "size"]
+- !private ["SE", "width"]
+- !private ["SE", "x"]
+- !private ["SE", "y"]
+- !private ["SQ", "applying"]
+- !private ["SQ", "bounds"]
+- !private ["SQ", "center"]
+- !private ["SQ", "closestCornerFrom"]
+- !private ["SQ", "cornerViewForCornerPosition"]
+- !private ["SQ", "ended"]
+- !private ["SQ", "highlightCornerAtPosition"]
+- !private ["SQ", "init"]
+- !private ["SQ", "location"]
+- !private ["SQ", "moveCorner"]
+- !private ["SQ", "quad"]
+- !private ["SQ", "resetHighlightedCornerViews"]
+- !private ["SQ", "scaledImage"]
+- !private ["SQ", "size"]
+- !private ["SQ", "state"]
+- !private ["SQ", "width"]
+- !private ["SQ", "x"]
+- !private ["SQ", "y"]
+- !private ["SH", "bounds"]
+- !private ["SH", "center"]
+- !private ["SH", "cornerViewForCornerPosition"]
+- !private ["SH", "ended"]
+- !private ["SH", "highlightCornerAtPosition"]
+- !private ["SH", "location"]
+- !private ["SH", "moveCorner"]
+- !private ["SH", "quad"]
+- !private ["SH", "resetHighlightedCornerViews"]
+- !private ["SH", "scaledImage"]
+- !private ["SH", "size"]
+- !private ["SH", "state"]
+- !private ["So8NSCodingP", "bounds"]
+- !private ["So8NSCodingP", "center"]
+- !private ["So8NSCodingP", "cornerViewForCornerPosition"]
+- !private ["So8NSCodingP", "highlightCornerAtPosition"]
+- !private ["So8NSCodingP", "moveCorner"]
+- !private ["So8NSCodingP", "quad"]
+- !private ["So8NSCodingP", "resetHighlightedCornerViews"]
+- !private ["So8NSCodingP", "scaledImage"]
+- !private ["So8NSCodingP", "size"]
+- !private ["So21NSItemProviderReadingP", "scaledImage"]
+- !private ["So21NSItemProviderReadingP", "size"]
+- !private ["So21NSItemProviderWritingP", "scaledImage"]
+- !private ["So21NSItemProviderWritingP", "size"]
+- !private ["So8NSObjectC", "bounds"]
+- !private ["So8NSObjectC", "center"]
+- !private ["So8NSObjectC", "cornerViewForCornerPosition"]
+- !private ["So8NSObjectC", "highlightCornerAtPosition"]
+- !private ["So8NSObjectC", "location"]
+- !private ["So8NSObjectC", "moveCorner"]
+- !private ["So8NSObjectC", "quad"]
+- !private ["So8NSObjectC", "resetHighlightedCornerViews"]
+- !private ["So8NSObjectC", "scaledImage"]
+- !private ["So8NSObjectC", "size"]
+- !private ["So8NSObjectC", "state"]
+- !private ["So8NSObjectP", "bounds"]
+- !private ["So8NSObjectP", "center"]
+- !private ["So8NSObjectP", "cornerViewForCornerPosition"]
+- !private ["So8NSObjectP", "highlightCornerAtPosition"]
+- !private ["So8NSObjectP", "location"]
+- !private ["So8NSObjectP", "moveCorner"]
+- !private ["So8NSObjectP", "quad"]
+- !private ["So8NSObjectP", "resetHighlightedCornerViews"]
+- !private ["So8NSObjectP", "scaledImage"]
+- !private ["So8NSObjectP", "size"]
+- !private ["So8NSObjectP", "state"]
+- !private ["So14NSSecureCodingP", "scaledImage"]
+- !private ["So14NSSecureCodingP", "size"]
+- !private ["6WeScan17QuadrilateralViewC", "bounds"]
+- !private ["6WeScan17QuadrilateralViewC", "cornerViewForCornerPosition"]
+- !private ["6WeScan17QuadrilateralViewC", "deinit"]
+- !private ["6WeScan17QuadrilateralViewC", "highlightCornerAtPosition"]
+- !private ["6WeScan17QuadrilateralViewC", "moveCorner"]
+- !private ["6WeScan17QuadrilateralViewC", "quad"]
+- !private ["6WeScan17QuadrilateralViewC", "resetHighlightedCornerViews"]
+- !private ["SY", "ended"]
+- !private ["So24UIGestureRecognizerStateV", "ended"]
+- !private ["So29UIAccessibilityIdentificationP", "bounds"]
+- !private ["So29UIAccessibilityIdentificationP", "center"]
+- !private ["So29UIAccessibilityIdentificationP", "cornerViewForCornerPosition"]
+- !private ["So29UIAccessibilityIdentificationP", "highlightCornerAtPosition"]
+- !private ["So29UIAccessibilityIdentificationP", "moveCorner"]
+- !private ["So29UIAccessibilityIdentificationP", "quad"]
+- !private ["So29UIAccessibilityIdentificationP", "resetHighlightedCornerViews"]
+- !private ["So29UIAccessibilityIdentificationP", "scaledImage"]
+- !private ["So29UIAccessibilityIdentificationP", "size"]
+- !private ["So12UIAppearanceP", "bounds"]
+- !private ["So12UIAppearanceP", "center"]
+- !private ["So12UIAppearanceP", "cornerViewForCornerPosition"]
+- !private ["So12UIAppearanceP", "highlightCornerAtPosition"]
+- !private ["So12UIAppearanceP", "moveCorner"]
+- !private ["So12UIAppearanceP", "quad"]
+- !private ["So12UIAppearanceP", "resetHighlightedCornerViews"]
+- !private ["So21UIAppearanceContainerP", "bounds"]
+- !private ["So21UIAppearanceContainerP", "center"]
+- !private ["So21UIAppearanceContainerP", "cornerViewForCornerPosition"]
+- !private ["So21UIAppearanceContainerP", "highlightCornerAtPosition"]
+- !private ["So21UIAppearanceContainerP", "moveCorner"]
+- !private ["So21UIAppearanceContainerP", "quad"]
+- !private ["So21UIAppearanceContainerP", "resetHighlightedCornerViews"]
+- !private ["So17UICoordinateSpaceP", "bounds"]
+- !private ["So17UICoordinateSpaceP", "center"]
+- !private ["So17UICoordinateSpaceP", "cornerViewForCornerPosition"]
+- !private ["So17UICoordinateSpaceP", "highlightCornerAtPosition"]
+- !private ["So17UICoordinateSpaceP", "moveCorner"]
+- !private ["So17UICoordinateSpaceP", "quad"]
+- !private ["So17UICoordinateSpaceP", "resetHighlightedCornerViews"]
+- !private ["So13UIDynamicItemP", "bounds"]
+- !private ["So13UIDynamicItemP", "center"]
+- !private ["So13UIDynamicItemP", "cornerViewForCornerPosition"]
+- !private ["So13UIDynamicItemP", "highlightCornerAtPosition"]
+- !private ["So13UIDynamicItemP", "moveCorner"]
+- !private ["So13UIDynamicItemP", "quad"]
+- !private ["So13UIDynamicItemP", "resetHighlightedCornerViews"]
+- !private ["So18UIFocusEnvironmentP", "bounds"]
+- !private ["So18UIFocusEnvironmentP", "center"]
+- !private ["So18UIFocusEnvironmentP", "cornerViewForCornerPosition"]
+- !private ["So18UIFocusEnvironmentP", "highlightCornerAtPosition"]
+- !private ["So18UIFocusEnvironmentP", "moveCorner"]
+- !private ["So18UIFocusEnvironmentP", "quad"]
+- !private ["So18UIFocusEnvironmentP", "resetHighlightedCornerViews"]
+- !private ["So11UIFocusItemP", "bounds"]
+- !private ["So11UIFocusItemP", "center"]
+- !private ["So11UIFocusItemP", "cornerViewForCornerPosition"]
+- !private ["So11UIFocusItemP", "highlightCornerAtPosition"]
+- !private ["So11UIFocusItemP", "moveCorner"]
+- !private ["So11UIFocusItemP", "quad"]
+- !private ["So11UIFocusItemP", "resetHighlightedCornerViews"]
+- !private ["So20UIFocusItemContainerP", "bounds"]
+- !private ["So20UIFocusItemContainerP", "center"]
+- !private ["So20UIFocusItemContainerP", "cornerViewForCornerPosition"]
+- !private ["So20UIFocusItemContainerP", "highlightCornerAtPosition"]
+- !private ["So20UIFocusItemContainerP", "moveCorner"]
+- !private ["So20UIFocusItemContainerP", "quad"]
+- !private ["So20UIFocusItemContainerP", "resetHighlightedCornerViews"]
+- !private ["So19UIGestureRecognizerC", "location"]
+- !private ["So19UIGestureRecognizerC", "state"]
+- !private ["So7UIImageC", "scaledImage"]
+- !private ["So7UIImageC", "size"]
+- !private ["So39UIItemProviderPresentationSizeProvidingP", "scaledImage"]
+- !private ["So39UIItemProviderPresentationSizeProvidingP", "size"]
+- !private ["So24UILargeContentViewerItemP", "bounds"]
+- !private ["So24UILargeContentViewerItemP", "center"]
+- !private ["So24UILargeContentViewerItemP", "cornerViewForCornerPosition"]
+- !private ["So24UILargeContentViewerItemP", "highlightCornerAtPosition"]
+- !private ["So24UILargeContentViewerItemP", "moveCorner"]
+- !private ["So24UILargeContentViewerItemP", "quad"]
+- !private ["So24UILargeContentViewerItemP", "resetHighlightedCornerViews"]
+- !private ["So30UIPasteConfigurationSupportingP", "bounds"]
+- !private ["So30UIPasteConfigurationSupportingP", "center"]
+- !private ["So30UIPasteConfigurationSupportingP", "cornerViewForCornerPosition"]
+- !private ["So30UIPasteConfigurationSupportingP", "highlightCornerAtPosition"]
+- !private ["So30UIPasteConfigurationSupportingP", "moveCorner"]
+- !private ["So30UIPasteConfigurationSupportingP", "quad"]
+- !private ["So30UIPasteConfigurationSupportingP", "resetHighlightedCornerViews"]
+- !private ["So11UIResponderC", "bounds"]
+- !private ["So11UIResponderC", "center"]
+- !private ["So11UIResponderC", "cornerViewForCornerPosition"]
+- !private ["So11UIResponderC", "highlightCornerAtPosition"]
+- !private ["So11UIResponderC", "moveCorner"]
+- !private ["So11UIResponderC", "quad"]
+- !private ["So11UIResponderC", "resetHighlightedCornerViews"]
+- !private ["So30UIResponderStandardEditActionsP", "bounds"]
+- !private ["So30UIResponderStandardEditActionsP", "center"]
+- !private ["So30UIResponderStandardEditActionsP", "cornerViewForCornerPosition"]
+- !private ["So30UIResponderStandardEditActionsP", "highlightCornerAtPosition"]
+- !private ["So30UIResponderStandardEditActionsP", "moveCorner"]
+- !private ["So30UIResponderStandardEditActionsP", "quad"]
+- !private ["So30UIResponderStandardEditActionsP", "resetHighlightedCornerViews"]
+- !private ["So18UITraitEnvironmentP", "bounds"]
+- !private ["So18UITraitEnvironmentP", "center"]
+- !private ["So18UITraitEnvironmentP", "cornerViewForCornerPosition"]
+- !private ["So18UITraitEnvironmentP", "highlightCornerAtPosition"]
+- !private ["So18UITraitEnvironmentP", "moveCorner"]
+- !private ["So18UITraitEnvironmentP", "quad"]
+- !private ["So18UITraitEnvironmentP", "resetHighlightedCornerViews"]
+- !private ["So23UIUserActivityRestoringP", "bounds"]
+- !private ["So23UIUserActivityRestoringP", "center"]
+- !private ["So23UIUserActivityRestoringP", "cornerViewForCornerPosition"]
+- !private ["So23UIUserActivityRestoringP", "highlightCornerAtPosition"]
+- !private ["So23UIUserActivityRestoringP", "moveCorner"]
+- !private ["So23UIUserActivityRestoringP", "quad"]
+- !private ["So23UIUserActivityRestoringP", "resetHighlightedCornerViews"]
+- !private ["So6UIViewC", "bounds"]
+- !private ["So6UIViewC", "center"]
+- !private ["So6UIViewC", "cornerViewForCornerPosition"]
+- !private ["So6UIViewC", "highlightCornerAtPosition"]
+- !private ["So6UIViewC", "moveCorner"]
+- !private ["So6UIViewC", "quad"]
+- !private ["So6UIViewC", "resetHighlightedCornerViews"]
+- !private ["6WeScan21ZoomGestureControllerC", "CGAffineTransform"]
+- ["6WeScan21ZoomGestureControllerC", "CGPoint"]
+- ["6WeScan21ZoomGestureControllerC", "CornerPosition"]
+- ["6WeScan21ZoomGestureControllerC", "QuadrilateralView"]
+- ["6WeScan21ZoomGestureControllerC", "UIGestureRecognizer"]
+- ["6WeScan21ZoomGestureControllerC", "UIImage"]
+- !private ["6WeScan21ZoomGestureControllerC", "closestCorner"]
+- ["6WeScan21ZoomGestureControllerC", "deinit"]
+- ["6WeScan21ZoomGestureControllerC", "handle"]
+- !private ["6WeScan21ZoomGestureControllerC", "image"]
+- ["6WeScan21ZoomGestureControllerC", "init"]
+- !private ["6WeScan21ZoomGestureControllerC", "previousPanPosition"]
+- !private ["6WeScan21ZoomGestureControllerC", "quadView"]
+- !private ["s30_CustomPlaygroundQuickLookableP", "applying"]
+- !private ["s30_CustomPlaygroundQuickLookableP", "closestCornerFrom"]
+- !private ["s30_CustomPlaygroundQuickLookableP", "init"]
+- !private ["s30_CustomPlaygroundQuickLookableP", "size"]
+- !private ["s30_CustomPlaygroundQuickLookableP", "width"]
+- !private ["s30_CustomPlaygroundQuickLookableP", "x"]
+- !private ["s30_CustomPlaygroundQuickLookableP", "y"]
+- !private ["s26_ExpressibleByImageLiteralP", "scaledImage"]
+- !private ["s26_ExpressibleByImageLiteralP", "size"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "bounds"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "center"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "cornerViewForCornerPosition"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "highlightCornerAtPosition"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "location"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "moveCorner"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "quad"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "resetHighlightedCornerViews"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "scaledImage"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "size"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "state"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "bounds"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "center"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "cornerViewForCornerPosition"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "highlightCornerAtPosition"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "location"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "moveCorner"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "quad"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "resetHighlightedCornerViews"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "scaledImage"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "size"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "state"]
+- !private ["s21_ObjectiveCBridgeableP", "applying"]
+- !private ["s21_ObjectiveCBridgeableP", "closestCornerFrom"]
+- !private ["s21_ObjectiveCBridgeableP", "init"]
+- !private ["s21_ObjectiveCBridgeableP", "size"]
+- !private ["s21_ObjectiveCBridgeableP", "width"]
+- !private ["s21_ObjectiveCBridgeableP", "x"]
+- !private ["s21_ObjectiveCBridgeableP", "y"]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "bounds"]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "center"]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "cornerViewForCornerPosition"]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "highlightCornerAtPosition"]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "moveCorner"]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "quad"]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "resetHighlightedCornerViews"]
+depends-nominal:
+- !private "So15CALayerDelegateP"
+- !private "So17CGAffineTransformV"
+- !private "So7CGPointV"
+- !private "So6CGRectV"
+- !private "So6CGSizeV"
+- !private "s7CVarArgP"
+- !private "s28CustomDebugStringConvertibleP"
+- !private "s17CustomReflectableP"
+- !private "s23CustomStringConvertibleP"
+- !private "Se"
+- !private "6WeScan04EditB10CornerViewC"
+- !private "SE"
+- !private "SQ"
+- !private "SH"
+- !private "So8NSCodingP"
+- !private "So21NSItemProviderReadingP"
+- !private "So21NSItemProviderWritingP"
+- !private "So8NSObjectC"
+- !private "So8NSObjectP"
+- !private "So14NSSecureCodingP"
+- !private "6WeScan17QuadrilateralViewC"
+- !private "SY"
+- !private "So24UIGestureRecognizerStateV"
+- !private "So29UIAccessibilityIdentificationP"
+- !private "So12UIAppearanceP"
+- !private "So21UIAppearanceContainerP"
+- !private "So17UICoordinateSpaceP"
+- !private "So13UIDynamicItemP"
+- !private "So18UIFocusEnvironmentP"
+- !private "So11UIFocusItemP"
+- !private "So20UIFocusItemContainerP"
+- !private "So19UIGestureRecognizerC"
+- !private "So7UIImageC"
+- !private "So39UIItemProviderPresentationSizeProvidingP"
+- !private "So24UILargeContentViewerItemP"
+- !private "So30UIPasteConfigurationSupportingP"
+- !private "So11UIResponderC"
+- !private "So30UIResponderStandardEditActionsP"
+- !private "So18UITraitEnvironmentP"
+- !private "So23UIUserActivityRestoringP"
+- !private "So6UIViewC"
+- "6WeScan21ZoomGestureControllerC"
+- !private "s30_CustomPlaygroundQuickLookableP"
+- !private "s26_ExpressibleByImageLiteralP"
+- !private "10Foundation27_KeyValueCodingAndObservingP"
+- !private "10Foundation37_KeyValueCodingAndObservingPublishingP"
+- !private "s21_ObjectiveCBridgeableP"
+- !private "s38__DefaultCustomPlaygroundQuickLookableP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/ObjectiveC.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreMIDI.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreML.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreMedia.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/simd.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreImage.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/QuartzCore.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Dispatch.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Metal.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Darwin.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Vision.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Foundation.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/AVFoundation.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreFoundation.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreAudio.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreGraphics.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Swift.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/UIKit.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/SwiftOnoneSupport.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Combine.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Users/kumargaurav/Documents/My Projects/Scanner App/BharatScan/Pods/Target Support Files/WeScan/WeScan-umbrella.h"
+- "/Users/kumargaurav/Documents/My Projects/Scanner App/BharatScan/Pods/WeScan/WeScan/WeScan.h"
+- "/Users/kumargaurav/Documents/My Projects/Scanner App/BharatScan/Build/Intermediates/Pods.build/Debug-iphonesimulator/WeScan.build/unextended-module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.7.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.7.sdk/System/Library/Frameworks/CoreML.framework/Headers/CoreML.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.7.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.7.sdk/System/Library/Frameworks/CoreMedia.framework/Headers/CoreMedia.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.7.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.7.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/apinotes/Dispatch.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.7.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.7.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.7.sdk/System/Library/Frameworks/Vision.framework/Headers/Vision.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.7.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.7.sdk/System/Library/Frameworks/AVFoundation.framework/Headers/AVFoundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.7.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.7.sdk/System/Library/Frameworks/CoreAudioTypes.framework/Headers/CoreAudioTypes.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.7.sdk/System/Library/Frameworks/UserNotifications.framework/Headers/UserNotifications.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.7.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.7.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.7.sdk/System/Library/Frameworks/MediaToolbox.framework/Headers/MediaToolbox.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.7.sdk/System/Library/Frameworks/AudioToolbox.framework/Headers/AudioToolbox.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.7.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "136475952309ae8824ef9b6bc20d55f6"

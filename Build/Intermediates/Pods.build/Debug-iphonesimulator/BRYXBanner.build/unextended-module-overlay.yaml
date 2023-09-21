@@ -1,0 +1,13 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [{
+    'type': 'directory',
+    'name': "/Users/kumargaurav/Documents/My Projects/Scanner App/BharatScan/Build/Products/Debug-iphonesimulator/BRYXBanner/BRYXBanner.framework/Modules"
+    'contents': [{
+      'type': 'file',
+      'name': "module.modulemap",
+      'external-contents': "/Users/kumargaurav/Documents/My Projects/Scanner App/BharatScan/Build/Intermediates/Pods.build/Debug-iphonesimulator/BRYXBanner.build/unextended-module.modulemap",
+    }]
+  }]
+}

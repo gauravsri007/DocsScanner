@@ -1,0 +1,10 @@
+framework module WeScan {
+  umbrella header "WeScan-umbrella.h"
+
+  export *
+  module * { export * }
+}
+
+module WeScan.__Swift {
+    exclude header "WeScan-Swift.h"
+}

@@ -1,0 +1,13 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [{
+    'type': 'directory',
+    'name': "/Users/kumargaurav/Documents/My Projects/Scanner App/BharatScan/Build/Intermediates/ArchiveIntermediates/BharatScan/BuildProductsPath/Release-iphoneos/ReachabilitySwift/Reachability.framework/Modules"
+    'contents': [{
+      'type': 'file',
+      'name': "module.modulemap",
+      'external-contents': "/Users/kumargaurav/Documents/My Projects/Scanner App/BharatScan/Build/Intermediates/ArchiveIntermediates/BharatScan/IntermediateBuildFilesPath/Pods.build/Release-iphoneos/ReachabilitySwift.build/unextended-module.modulemap",
+    }]
+  }]
+}

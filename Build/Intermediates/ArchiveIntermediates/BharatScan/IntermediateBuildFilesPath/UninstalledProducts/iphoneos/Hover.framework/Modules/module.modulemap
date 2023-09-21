@@ -1,0 +1,11 @@
+framework module Hover {
+  umbrella header "Hover-umbrella.h"
+
+  export *
+  module * { export * }
+}
+
+module Hover.Swift {
+    header "Hover-Swift.h"
+    requires objc
+}

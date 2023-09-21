@@ -1,0 +1,323 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "CaptureDevice"
+- "MockCaptureDevice"
+provides-nominal:
+- "6WeScan13CaptureDeviceP"
+- "So15AVCaptureDeviceC"
+- "6WeScan17MockCaptureDeviceC"
+provides-member:
+- ["6WeScan13CaptureDeviceP", ""]
+- ["So15AVCaptureDeviceC", ""]
+- ["6WeScan17MockCaptureDeviceC", ""]
+provides-dynamic-lookup:
+- "exposureMode"
+- "exposurePointOfInterest"
+- "focusMode"
+- "focusPointOfInterest"
+- "isExposureModeSupported"
+- "isExposurePointOfInterestSupported"
+- "isFocusModeSupported"
+- "isFocusPointOfInterestSupported"
+- "isSubjectAreaChangeMonitoringEnabled"
+- "isTorchAvailable"
+- "lockForConfiguration"
+- "torchMode"
+- "unlockForConfiguration"
+depends-top-level:
+- "AVCaptureDevice"
+- "AnyObject"
+- "Bool"
+- "BooleanLiteralType"
+- "CGPoint"
+- "CaptureDevice"
+- "MockCaptureDevice"
+depends-member:
+- ["So15AVCaptureDeviceC", "ExposureMode"]
+- ["So15AVCaptureDeviceC", "FocusMode"]
+- ["So15AVCaptureDeviceC", "TorchMode"]
+- ["So15AVCaptureDeviceC", "deinit"]
+- ["So15AVCaptureDeviceC", "exposureMode"]
+- ["So15AVCaptureDeviceC", "exposurePointOfInterest"]
+- ["So15AVCaptureDeviceC", "focusMode"]
+- ["So15AVCaptureDeviceC", "focusPointOfInterest"]
+- ["So15AVCaptureDeviceC", "isExposureModeSupported"]
+- ["So15AVCaptureDeviceC", "isExposurePointOfInterestSupported"]
+- ["So15AVCaptureDeviceC", "isFocusModeSupported"]
+- ["So15AVCaptureDeviceC", "isFocusPointOfInterestSupported"]
+- ["So15AVCaptureDeviceC", "isSubjectAreaChangeMonitoringEnabled"]
+- ["So15AVCaptureDeviceC", "isTorchAvailable"]
+- ["So15AVCaptureDeviceC", "lockForConfiguration"]
+- ["So15AVCaptureDeviceC", "torchMode"]
+- ["So15AVCaptureDeviceC", "unlockForConfiguration"]
+- ["So7CGPointV", "zero"]
+- ["s7CVarArgP", "ExposureMode"]
+- ["s7CVarArgP", "FocusMode"]
+- ["s7CVarArgP", "TorchMode"]
+- ["s7CVarArgP", "exposureMode"]
+- ["s7CVarArgP", "exposurePointOfInterest"]
+- ["s7CVarArgP", "focusMode"]
+- ["s7CVarArgP", "focusPointOfInterest"]
+- ["s7CVarArgP", "isExposureModeSupported"]
+- ["s7CVarArgP", "isExposurePointOfInterestSupported"]
+- ["s7CVarArgP", "isFocusModeSupported"]
+- ["s7CVarArgP", "isFocusPointOfInterestSupported"]
+- ["s7CVarArgP", "isSubjectAreaChangeMonitoringEnabled"]
+- ["s7CVarArgP", "isTorchAvailable"]
+- ["s7CVarArgP", "lockForConfiguration"]
+- ["s7CVarArgP", "torchMode"]
+- ["s7CVarArgP", "unlockForConfiguration"]
+- ["6WeScan13CaptureDeviceP", "AVCaptureDevice"]
+- ["6WeScan13CaptureDeviceP", "Bool"]
+- ["6WeScan13CaptureDeviceP", "CGPoint"]
+- ["6WeScan13CaptureDeviceP", "ExposureMode"]
+- ["6WeScan13CaptureDeviceP", "FocusMode"]
+- ["6WeScan13CaptureDeviceP", "TorchMode"]
+- ["6WeScan13CaptureDeviceP", ""]
+- ["6WeScan13CaptureDeviceP", "exposureMode"]
+- ["6WeScan13CaptureDeviceP", "exposurePointOfInterest"]
+- ["6WeScan13CaptureDeviceP", "focusMode"]
+- ["6WeScan13CaptureDeviceP", "focusPointOfInterest"]
+- ["6WeScan13CaptureDeviceP", "isExposureModeSupported"]
+- ["6WeScan13CaptureDeviceP", "isExposurePointOfInterestSupported"]
+- ["6WeScan13CaptureDeviceP", "isFocusModeSupported"]
+- ["6WeScan13CaptureDeviceP", "isFocusPointOfInterestSupported"]
+- ["6WeScan13CaptureDeviceP", "isSubjectAreaChangeMonitoringEnabled"]
+- ["6WeScan13CaptureDeviceP", "isTorchAvailable"]
+- ["6WeScan13CaptureDeviceP", "lockForConfiguration"]
+- ["6WeScan13CaptureDeviceP", "torchMode"]
+- ["6WeScan13CaptureDeviceP", "unlockForConfiguration"]
+- ["s28CustomDebugStringConvertibleP", "ExposureMode"]
+- ["s28CustomDebugStringConvertibleP", "FocusMode"]
+- ["s28CustomDebugStringConvertibleP", "TorchMode"]
+- ["s28CustomDebugStringConvertibleP", "exposureMode"]
+- ["s28CustomDebugStringConvertibleP", "exposurePointOfInterest"]
+- ["s28CustomDebugStringConvertibleP", "focusMode"]
+- ["s28CustomDebugStringConvertibleP", "focusPointOfInterest"]
+- ["s28CustomDebugStringConvertibleP", "isExposureModeSupported"]
+- ["s28CustomDebugStringConvertibleP", "isExposurePointOfInterestSupported"]
+- ["s28CustomDebugStringConvertibleP", "isFocusModeSupported"]
+- ["s28CustomDebugStringConvertibleP", "isFocusPointOfInterestSupported"]
+- ["s28CustomDebugStringConvertibleP", "isSubjectAreaChangeMonitoringEnabled"]
+- ["s28CustomDebugStringConvertibleP", "isTorchAvailable"]
+- ["s28CustomDebugStringConvertibleP", "lockForConfiguration"]
+- ["s28CustomDebugStringConvertibleP", "torchMode"]
+- ["s28CustomDebugStringConvertibleP", "unlockForConfiguration"]
+- ["s28CustomDebugStringConvertibleP", "zero"]
+- ["s17CustomReflectableP", "zero"]
+- ["s23CustomStringConvertibleP", "ExposureMode"]
+- ["s23CustomStringConvertibleP", "FocusMode"]
+- ["s23CustomStringConvertibleP", "TorchMode"]
+- ["s23CustomStringConvertibleP", "exposureMode"]
+- ["s23CustomStringConvertibleP", "exposurePointOfInterest"]
+- ["s23CustomStringConvertibleP", "focusMode"]
+- ["s23CustomStringConvertibleP", "focusPointOfInterest"]
+- ["s23CustomStringConvertibleP", "isExposureModeSupported"]
+- ["s23CustomStringConvertibleP", "isExposurePointOfInterestSupported"]
+- ["s23CustomStringConvertibleP", "isFocusModeSupported"]
+- ["s23CustomStringConvertibleP", "isFocusPointOfInterestSupported"]
+- ["s23CustomStringConvertibleP", "isSubjectAreaChangeMonitoringEnabled"]
+- ["s23CustomStringConvertibleP", "isTorchAvailable"]
+- ["s23CustomStringConvertibleP", "lockForConfiguration"]
+- ["s23CustomStringConvertibleP", "torchMode"]
+- ["s23CustomStringConvertibleP", "unlockForConfiguration"]
+- ["Se", "zero"]
+- ["SE", "zero"]
+- ["SQ", "ExposureMode"]
+- ["SQ", "FocusMode"]
+- ["SQ", "TorchMode"]
+- ["SQ", "continuousAutoExposure"]
+- ["SQ", "continuousAutoFocus"]
+- ["SQ", "exposureMode"]
+- ["SQ", "exposurePointOfInterest"]
+- ["SQ", "focusMode"]
+- ["SQ", "focusPointOfInterest"]
+- ["SQ", "isExposureModeSupported"]
+- ["SQ", "isExposurePointOfInterestSupported"]
+- ["SQ", "isFocusModeSupported"]
+- ["SQ", "isFocusPointOfInterestSupported"]
+- ["SQ", "isSubjectAreaChangeMonitoringEnabled"]
+- ["SQ", "isTorchAvailable"]
+- ["SQ", "lockForConfiguration"]
+- ["SQ", "off"]
+- ["SQ", "torchMode"]
+- ["SQ", "unlockForConfiguration"]
+- ["SQ", "zero"]
+- ["So21AVCaptureExposureModeV", "continuousAutoExposure"]
+- ["So18AVCaptureFocusModeV", "continuousAutoFocus"]
+- ["SH", "ExposureMode"]
+- ["SH", "FocusMode"]
+- ["SH", "TorchMode"]
+- ["SH", "continuousAutoExposure"]
+- ["SH", "continuousAutoFocus"]
+- ["SH", "exposureMode"]
+- ["SH", "exposurePointOfInterest"]
+- ["SH", "focusMode"]
+- ["SH", "focusPointOfInterest"]
+- ["SH", "isExposureModeSupported"]
+- ["SH", "isExposurePointOfInterestSupported"]
+- ["SH", "isFocusModeSupported"]
+- ["SH", "isFocusPointOfInterestSupported"]
+- ["SH", "isSubjectAreaChangeMonitoringEnabled"]
+- ["SH", "isTorchAvailable"]
+- ["SH", "lockForConfiguration"]
+- ["SH", "off"]
+- ["SH", "torchMode"]
+- ["SH", "unlockForConfiguration"]
+- ["6WeScan17MockCaptureDeviceC", "AVCaptureDevice"]
+- ["6WeScan17MockCaptureDeviceC", "Bool"]
+- ["6WeScan17MockCaptureDeviceC", "CGPoint"]
+- ["6WeScan17MockCaptureDeviceC", "deinit"]
+- ["6WeScan17MockCaptureDeviceC", "exposureMode"]
+- ["6WeScan17MockCaptureDeviceC", "exposurePointOfInterest"]
+- ["6WeScan17MockCaptureDeviceC", "focusMode"]
+- ["6WeScan17MockCaptureDeviceC", "focusPointOfInterest"]
+- ["6WeScan17MockCaptureDeviceC", "init"]
+- ["6WeScan17MockCaptureDeviceC", "isExposureModeSupported"]
+- ["6WeScan17MockCaptureDeviceC", "isExposurePointOfInterestSupported"]
+- ["6WeScan17MockCaptureDeviceC", "isFocusModeSupported"]
+- ["6WeScan17MockCaptureDeviceC", "isFocusPointOfInterestSupported"]
+- ["6WeScan17MockCaptureDeviceC", "isSubjectAreaChangeMonitoringEnabled"]
+- ["6WeScan17MockCaptureDeviceC", "isTorchAvailable"]
+- ["6WeScan17MockCaptureDeviceC", "lockForConfiguration"]
+- ["6WeScan17MockCaptureDeviceC", "torchMode"]
+- ["6WeScan17MockCaptureDeviceC", "unlockForConfiguration"]
+- ["So8NSObjectC", "ExposureMode"]
+- ["So8NSObjectC", "FocusMode"]
+- ["So8NSObjectC", "TorchMode"]
+- ["So8NSObjectC", "exposureMode"]
+- ["So8NSObjectC", "exposurePointOfInterest"]
+- ["So8NSObjectC", "focusMode"]
+- ["So8NSObjectC", "focusPointOfInterest"]
+- ["So8NSObjectC", "isExposureModeSupported"]
+- ["So8NSObjectC", "isExposurePointOfInterestSupported"]
+- ["So8NSObjectC", "isFocusModeSupported"]
+- ["So8NSObjectC", "isFocusPointOfInterestSupported"]
+- ["So8NSObjectC", "isSubjectAreaChangeMonitoringEnabled"]
+- ["So8NSObjectC", "isTorchAvailable"]
+- ["So8NSObjectC", "lockForConfiguration"]
+- ["So8NSObjectC", "torchMode"]
+- ["So8NSObjectC", "unlockForConfiguration"]
+- ["So8NSObjectP", "ExposureMode"]
+- ["So8NSObjectP", "FocusMode"]
+- ["So8NSObjectP", "TorchMode"]
+- ["So8NSObjectP", "exposureMode"]
+- ["So8NSObjectP", "exposurePointOfInterest"]
+- ["So8NSObjectP", "focusMode"]
+- ["So8NSObjectP", "focusPointOfInterest"]
+- ["So8NSObjectP", "isExposureModeSupported"]
+- ["So8NSObjectP", "isExposurePointOfInterestSupported"]
+- ["So8NSObjectP", "isFocusModeSupported"]
+- ["So8NSObjectP", "isFocusPointOfInterestSupported"]
+- ["So8NSObjectP", "isSubjectAreaChangeMonitoringEnabled"]
+- ["So8NSObjectP", "isTorchAvailable"]
+- ["So8NSObjectP", "lockForConfiguration"]
+- ["So8NSObjectP", "torchMode"]
+- ["So8NSObjectP", "unlockForConfiguration"]
+- ["SY", "continuousAutoExposure"]
+- ["SY", "continuousAutoFocus"]
+- ["SY", "off"]
+- ["So18AVCaptureTorchModeV", "off"]
+- ["s30_CustomPlaygroundQuickLookableP", "zero"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "ExposureMode"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "FocusMode"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "TorchMode"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "exposureMode"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "exposurePointOfInterest"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "focusMode"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "focusPointOfInterest"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "isExposureModeSupported"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "isExposurePointOfInterestSupported"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "isFocusModeSupported"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "isFocusPointOfInterestSupported"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "isSubjectAreaChangeMonitoringEnabled"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "isTorchAvailable"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "lockForConfiguration"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "torchMode"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "unlockForConfiguration"]
+- ["10Foundation37_KeyValueCodingAndObservingPublishingP", "ExposureMode"]
+- ["10Foundation37_KeyValueCodingAndObservingPublishingP", "FocusMode"]
+- ["10Foundation37_KeyValueCodingAndObservingPublishingP", "TorchMode"]
+- ["10Foundation37_KeyValueCodingAndObservingPublishingP", "exposureMode"]
+- ["10Foundation37_KeyValueCodingAndObservingPublishingP", "exposurePointOfInterest"]
+- ["10Foundation37_KeyValueCodingAndObservingPublishingP", "focusMode"]
+- ["10Foundation37_KeyValueCodingAndObservingPublishingP", "focusPointOfInterest"]
+- ["10Foundation37_KeyValueCodingAndObservingPublishingP", "isExposureModeSupported"]
+- ["10Foundation37_KeyValueCodingAndObservingPublishingP", "isExposurePointOfInterestSupported"]
+- ["10Foundation37_KeyValueCodingAndObservingPublishingP", "isFocusModeSupported"]
+- ["10Foundation37_KeyValueCodingAndObservingPublishingP", "isFocusPointOfInterestSupported"]
+- ["10Foundation37_KeyValueCodingAndObservingPublishingP", "isSubjectAreaChangeMonitoringEnabled"]
+- ["10Foundation37_KeyValueCodingAndObservingPublishingP", "isTorchAvailable"]
+- ["10Foundation37_KeyValueCodingAndObservingPublishingP", "lockForConfiguration"]
+- ["10Foundation37_KeyValueCodingAndObservingPublishingP", "torchMode"]
+- ["10Foundation37_KeyValueCodingAndObservingPublishingP", "unlockForConfiguration"]
+- ["s21_ObjectiveCBridgeableP", "zero"]
+depends-nominal:
+- "So15AVCaptureDeviceC"
+- "So7CGPointV"
+- "s7CVarArgP"
+- "6WeScan13CaptureDeviceP"
+- "s28CustomDebugStringConvertibleP"
+- "s17CustomReflectableP"
+- "s23CustomStringConvertibleP"
+- "Se"
+- "SE"
+- "SQ"
+- "So21AVCaptureExposureModeV"
+- "So18AVCaptureFocusModeV"
+- "SH"
+- "6WeScan17MockCaptureDeviceC"
+- "So8NSObjectC"
+- "So8NSObjectP"
+- "SY"
+- "So18AVCaptureTorchModeV"
+- "s30_CustomPlaygroundQuickLookableP"
+- "10Foundation27_KeyValueCodingAndObservingP"
+- "10Foundation37_KeyValueCodingAndObservingPublishingP"
+- "s21_ObjectiveCBridgeableP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/ObjectiveC.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreMIDI.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreML.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreMedia.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/simd.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreImage.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/QuartzCore.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Dispatch.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Metal.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Darwin.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Vision.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Foundation.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/AVFoundation.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreFoundation.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreAudio.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreGraphics.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Swift.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/UIKit.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/SwiftOnoneSupport.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Combine.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Users/kumargaurav/Documents/My Projects/Scanner App/BharatScan/Pods/Target Support Files/WeScan/WeScan-umbrella.h"
+- "/Users/kumargaurav/Documents/My Projects/Scanner App/BharatScan/Pods/WeScan/WeScan/WeScan.h"
+- "/Users/kumargaurav/Documents/My Projects/Scanner App/BharatScan/Build/Intermediates/Pods.build/Debug-iphonesimulator/WeScan.build/unextended-module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.7.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.7.sdk/System/Library/Frameworks/CoreML.framework/Headers/CoreML.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.7.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.7.sdk/System/Library/Frameworks/CoreMedia.framework/Headers/CoreMedia.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.7.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.7.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/apinotes/Dispatch.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.7.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.7.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.7.sdk/System/Library/Frameworks/Vision.framework/Headers/Vision.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.7.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.7.sdk/System/Library/Frameworks/AVFoundation.framework/Headers/AVFoundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.7.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.7.sdk/System/Library/Frameworks/CoreAudioTypes.framework/Headers/CoreAudioTypes.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.7.sdk/System/Library/Frameworks/UserNotifications.framework/Headers/UserNotifications.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.7.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.7.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.7.sdk/System/Library/Frameworks/MediaToolbox.framework/Headers/MediaToolbox.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.7.sdk/System/Library/Frameworks/AudioToolbox.framework/Headers/AudioToolbox.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.7.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "5e9c46ef86f2b6f941135dc1b75ddde4"

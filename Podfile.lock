@@ -1,0 +1,46 @@
+PODS:
+  - Alamofire (5.2.1)
+  - BRYXBanner (0.8.4)
+  - Hover (1.3.0)
+  - IHKeyboardAvoiding (4.7)
+  - MBProgressHUD (1.2.0)
+  - ReachabilitySwift (5.0.0)
+  - SDWebImage (5.8.0):
+    - SDWebImage/Core (= 5.8.0)
+  - SDWebImage/Core (5.8.0)
+  - WeScan (1.7.0)
+
+DEPENDENCIES:
+  - Alamofire
+  - BRYXBanner
+  - Hover
+  - IHKeyboardAvoiding
+  - MBProgressHUD
+  - ReachabilitySwift
+  - SDWebImage (~> 5.0)
+  - WeScan (>= 0.9)
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - BRYXBanner
+    - Hover
+    - IHKeyboardAvoiding
+    - MBProgressHUD
+    - ReachabilitySwift
+    - SDWebImage
+    - WeScan
+
+SPEC CHECKSUMS:
+  Alamofire: e911732990610fe89af59ac0077f923d72dc3dfd
+  BRYXBanner: 4fbd266f96ce000e4c6cc9a0558c446bd88d9801
+  Hover: 002ceb90624ed4817ddf2021700b9ff33e374002
+  IHKeyboardAvoiding: 4cae0880c3975feffa278495df894c5166e71ad0
+  MBProgressHUD: 3ee5efcc380f6a79a7cc9b363dd669c5e1ae7406
+  ReachabilitySwift: 985039c6f7b23a1da463388634119492ff86c825
+  SDWebImage: 84000f962cbfa70c07f19d2234cbfcf5d779b5dc
+  WeScan: fed582f6c38014d529afb5aa9ffd1bad38fc72b7
+
+PODFILE CHECKSUM: 66aea39e32df69612d9c54b4fc09b46fc9ff9f90
+
+COCOAPODS: 1.9.3

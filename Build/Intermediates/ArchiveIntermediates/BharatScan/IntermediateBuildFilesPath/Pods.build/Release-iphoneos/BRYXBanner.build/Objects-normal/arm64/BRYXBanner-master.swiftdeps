@@ -1,0 +1,5 @@
+version: "Apple Swift version 5.2.4 (swiftlang-1103.0.32.9 clang-1103.0.32.53)"
+options: "b0e76c1157204f8584e4ebb6486b040b"
+build_time: [1601879207, 72164000]
+inputs:
+  "/Users/kumargaurav/Documents/My Projects/Scanner App/BharatScan/Pods/BRYXBanner/Pod/Classes/Banner.swift": [9223372036, 854775807]

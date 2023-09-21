@@ -1,0 +1,892 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "ImagePickerDelegate"
+- "ImagePicker"
+provides-nominal:
+- "10BharatScan19ImagePickerDelegateP"
+- "10BharatScan11ImagePickerC"
+provides-member:
+- ["10BharatScan19ImagePickerDelegateP", ""]
+- ["10BharatScan11ImagePickerC", ""]
+provides-dynamic-lookup:
+- "action"
+- "delegate"
+- "imagePickerController"
+- "imagePickerControllerDidCancel"
+- "pickerController"
+- "pickerController_media"
+- "present"
+- "presentationController"
+depends-top-level:
+- !private "=="
+- "AnyObject"
+- "AssignmentPrecedence"
+- !private "BooleanLiteralType"
+- "CastingPrecedence"
+- "ImagePicker"
+- "ImagePickerDelegate"
+- "NSObject"
+- !private "NSString"
+- "NSURL"
+- "String"
+- !private "StringLiteralType"
+- "UIAlertAction"
+- !private "UIAlertController"
+- !private "UIDevice"
+- "UIImage"
+- "UIImagePickerController"
+- "UIImagePickerControllerDelegate"
+- "UINavigationControllerDelegate"
+- "UIView"
+- "UIViewController"
+depends-member:
+- !private ["SK", "editedImage"]
+- !private ["So15CALayerDelegateP", "bounds"]
+- ["s7CVarArgP", "InfoKey"]
+- ["s7CVarArgP", "SourceType"]
+- !private ["s7CVarArgP", "UIAlertAction"]
+- !private ["s7CVarArgP", "UIAlertController"]
+- !private ["s7CVarArgP", "UIDevice"]
+- !private ["s7CVarArgP", "UIImagePickerController"]
+- ["s7CVarArgP", ""]
+- !private ["s7CVarArgP", "action"]
+- !private ["s7CVarArgP", "addAction"]
+- !private ["s7CVarArgP", "allowsEditing"]
+- !private ["s7CVarArgP", "bounds"]
+- !private ["s7CVarArgP", "callAsFunction"]
+- !private ["s7CVarArgP", "current"]
+- !private ["s7CVarArgP", "delegate"]
+- !private ["s7CVarArgP", "dismiss"]
+- ["s7CVarArgP", "imagePickerController"]
+- ["s7CVarArgP", "imagePickerControllerDidCancel"]
+- !private ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "isSourceTypeAvailable"]
+- !private ["s7CVarArgP", "mediaTypes"]
+- ["s7CVarArgP", "navigationController"]
+- ["s7CVarArgP", "navigationControllerPreferredInterfaceOrientationForPresentation"]
+- ["s7CVarArgP", "navigationControllerSupportedInterfaceOrientations"]
+- !private ["s7CVarArgP", "permittedArrowDirections"]
+- !private ["s7CVarArgP", "pickerController"]
+- !private ["s7CVarArgP", "pickerController_media"]
+- !private ["s7CVarArgP", "popoverPresentationController"]
+- !private ["s7CVarArgP", "present"]
+- !private ["s7CVarArgP", "presentationController"]
+- !private ["s7CVarArgP", "sourceRect"]
+- !private ["s7CVarArgP", "sourceType"]
+- !private ["s7CVarArgP", "sourceView"]
+- !private ["s7CVarArgP", "subscript"]
+- !private ["s7CVarArgP", "userInterfaceIdiom"]
+- !private ["s7CVarArgP", "videoQuality"]
+- !private ["Sl", "editedImage"]
+- !private ["Sl", "subscript"]
+- !private ["SL", "editedImage"]
+- ["s28CustomDebugStringConvertibleP", "InfoKey"]
+- ["s28CustomDebugStringConvertibleP", "SourceType"]
+- !private ["s28CustomDebugStringConvertibleP", "UIAlertAction"]
+- !private ["s28CustomDebugStringConvertibleP", "UIAlertController"]
+- !private ["s28CustomDebugStringConvertibleP", "UIDevice"]
+- !private ["s28CustomDebugStringConvertibleP", "UIImagePickerController"]
+- ["s28CustomDebugStringConvertibleP", ""]
+- !private ["s28CustomDebugStringConvertibleP", "action"]
+- !private ["s28CustomDebugStringConvertibleP", "addAction"]
+- !private ["s28CustomDebugStringConvertibleP", "allowsEditing"]
+- !private ["s28CustomDebugStringConvertibleP", "bounds"]
+- !private ["s28CustomDebugStringConvertibleP", "callAsFunction"]
+- !private ["s28CustomDebugStringConvertibleP", "current"]
+- !private ["s28CustomDebugStringConvertibleP", "delegate"]
+- !private ["s28CustomDebugStringConvertibleP", "dismiss"]
+- !private ["s28CustomDebugStringConvertibleP", "editedImage"]
+- ["s28CustomDebugStringConvertibleP", "imagePickerController"]
+- ["s28CustomDebugStringConvertibleP", "imagePickerControllerDidCancel"]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "isSourceTypeAvailable"]
+- !private ["s28CustomDebugStringConvertibleP", "mediaTypes"]
+- ["s28CustomDebugStringConvertibleP", "navigationController"]
+- ["s28CustomDebugStringConvertibleP", "navigationControllerPreferredInterfaceOrientationForPresentation"]
+- ["s28CustomDebugStringConvertibleP", "navigationControllerSupportedInterfaceOrientations"]
+- !private ["s28CustomDebugStringConvertibleP", "permittedArrowDirections"]
+- !private ["s28CustomDebugStringConvertibleP", "pickerController"]
+- !private ["s28CustomDebugStringConvertibleP", "pickerController_media"]
+- !private ["s28CustomDebugStringConvertibleP", "popoverPresentationController"]
+- !private ["s28CustomDebugStringConvertibleP", "present"]
+- !private ["s28CustomDebugStringConvertibleP", "presentationController"]
+- !private ["s28CustomDebugStringConvertibleP", "sourceRect"]
+- !private ["s28CustomDebugStringConvertibleP", "sourceType"]
+- !private ["s28CustomDebugStringConvertibleP", "sourceView"]
+- !private ["s28CustomDebugStringConvertibleP", "subscript"]
+- !private ["s28CustomDebugStringConvertibleP", "userInterfaceIdiom"]
+- !private ["s28CustomDebugStringConvertibleP", "videoQuality"]
+- !private ["s17CustomReflectableP", "editedImage"]
+- !private ["s17CustomReflectableP", "subscript"]
+- ["s23CustomStringConvertibleP", "InfoKey"]
+- ["s23CustomStringConvertibleP", "SourceType"]
+- !private ["s23CustomStringConvertibleP", "UIAlertAction"]
+- !private ["s23CustomStringConvertibleP", "UIAlertController"]
+- !private ["s23CustomStringConvertibleP", "UIDevice"]
+- !private ["s23CustomStringConvertibleP", "UIImagePickerController"]
+- ["s23CustomStringConvertibleP", ""]
+- !private ["s23CustomStringConvertibleP", "action"]
+- !private ["s23CustomStringConvertibleP", "addAction"]
+- !private ["s23CustomStringConvertibleP", "allowsEditing"]
+- !private ["s23CustomStringConvertibleP", "bounds"]
+- !private ["s23CustomStringConvertibleP", "callAsFunction"]
+- !private ["s23CustomStringConvertibleP", "current"]
+- !private ["s23CustomStringConvertibleP", "delegate"]
+- !private ["s23CustomStringConvertibleP", "dismiss"]
+- !private ["s23CustomStringConvertibleP", "editedImage"]
+- ["s23CustomStringConvertibleP", "imagePickerController"]
+- ["s23CustomStringConvertibleP", "imagePickerControllerDidCancel"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "isSourceTypeAvailable"]
+- !private ["s23CustomStringConvertibleP", "mediaTypes"]
+- ["s23CustomStringConvertibleP", "navigationController"]
+- ["s23CustomStringConvertibleP", "navigationControllerPreferredInterfaceOrientationForPresentation"]
+- ["s23CustomStringConvertibleP", "navigationControllerSupportedInterfaceOrientations"]
+- !private ["s23CustomStringConvertibleP", "permittedArrowDirections"]
+- !private ["s23CustomStringConvertibleP", "pickerController"]
+- !private ["s23CustomStringConvertibleP", "pickerController_media"]
+- !private ["s23CustomStringConvertibleP", "popoverPresentationController"]
+- !private ["s23CustomStringConvertibleP", "present"]
+- !private ["s23CustomStringConvertibleP", "presentationController"]
+- !private ["s23CustomStringConvertibleP", "sourceRect"]
+- !private ["s23CustomStringConvertibleP", "sourceType"]
+- !private ["s23CustomStringConvertibleP", "sourceView"]
+- !private ["s23CustomStringConvertibleP", "subscript"]
+- !private ["s23CustomStringConvertibleP", "userInterfaceIdiom"]
+- !private ["s23CustomStringConvertibleP", "videoQuality"]
+- !private ["Se", "editedImage"]
+- !private ["Se", "subscript"]
+- !private ["SD", "subscript"]
+- !private ["SE", "editedImage"]
+- !private ["SE", "subscript"]
+- ["SQ", "InfoKey"]
+- ["SQ", "SourceType"]
+- !private ["SQ", "UIAlertAction"]
+- !private ["SQ", "UIAlertController"]
+- !private ["SQ", "UIDevice"]
+- !private ["SQ", "UIImagePickerController"]
+- ["SQ", ""]
+- !private ["SQ", "action"]
+- !private ["SQ", "actionSheet"]
+- !private ["SQ", "addAction"]
+- !private ["SQ", "allowsEditing"]
+- !private ["SQ", "bounds"]
+- !private ["SQ", "callAsFunction"]
+- !private ["SQ", "camera"]
+- !private ["SQ", "cancel"]
+- !private ["SQ", "current"]
+- !private ["SQ", "default"]
+- !private ["SQ", "delegate"]
+- !private ["SQ", "dismiss"]
+- !private ["SQ", "down"]
+- !private ["SQ", "editedImage"]
+- ["SQ", "imagePickerController"]
+- ["SQ", "imagePickerControllerDidCancel"]
+- !private ["SQ", "init"]
+- !private ["SQ", "isSourceTypeAvailable"]
+- !private ["SQ", "mediaType"]
+- !private ["SQ", "mediaTypes"]
+- !private ["SQ", "mediaURL"]
+- ["SQ", "navigationController"]
+- ["SQ", "navigationControllerPreferredInterfaceOrientationForPresentation"]
+- ["SQ", "navigationControllerSupportedInterfaceOrientations"]
+- !private ["SQ", "pad"]
+- !private ["SQ", "permittedArrowDirections"]
+- !private ["SQ", "photoLibrary"]
+- !private ["SQ", "pickerController"]
+- !private ["SQ", "pickerController_media"]
+- !private ["SQ", "popoverPresentationController"]
+- !private ["SQ", "present"]
+- !private ["SQ", "presentationController"]
+- !private ["SQ", "savedPhotosAlbum"]
+- !private ["SQ", "sourceRect"]
+- !private ["SQ", "sourceType"]
+- !private ["SQ", "sourceView"]
+- !private ["SQ", "subscript"]
+- !private ["SQ", "typeHigh"]
+- !private ["SQ", "up"]
+- !private ["SQ", "userInterfaceIdiom"]
+- !private ["SQ", "videoQuality"]
+- !private ["s25ExpressibleByArrayLiteralP", "down"]
+- !private ["s25ExpressibleByArrayLiteralP", "up"]
+- !private ["s30ExpressibleByDictionaryLiteralP", "subscript"]
+- ["SH", "InfoKey"]
+- ["SH", "SourceType"]
+- !private ["SH", "UIAlertAction"]
+- !private ["SH", "UIAlertController"]
+- !private ["SH", "UIDevice"]
+- !private ["SH", "UIImagePickerController"]
+- ["SH", ""]
+- !private ["SH", "action"]
+- !private ["SH", "actionSheet"]
+- !private ["SH", "addAction"]
+- !private ["SH", "allowsEditing"]
+- !private ["SH", "bounds"]
+- !private ["SH", "callAsFunction"]
+- !private ["SH", "camera"]
+- !private ["SH", "cancel"]
+- !private ["SH", "current"]
+- !private ["SH", "default"]
+- !private ["SH", "delegate"]
+- !private ["SH", "dismiss"]
+- !private ["SH", "editedImage"]
+- ["SH", "imagePickerController"]
+- ["SH", "imagePickerControllerDidCancel"]
+- !private ["SH", "init"]
+- !private ["SH", "isSourceTypeAvailable"]
+- !private ["SH", "mediaType"]
+- !private ["SH", "mediaTypes"]
+- !private ["SH", "mediaURL"]
+- ["SH", "navigationController"]
+- ["SH", "navigationControllerPreferredInterfaceOrientationForPresentation"]
+- ["SH", "navigationControllerSupportedInterfaceOrientations"]
+- !private ["SH", "pad"]
+- !private ["SH", "permittedArrowDirections"]
+- !private ["SH", "photoLibrary"]
+- !private ["SH", "pickerController"]
+- !private ["SH", "pickerController_media"]
+- !private ["SH", "popoverPresentationController"]
+- !private ["SH", "present"]
+- !private ["SH", "presentationController"]
+- !private ["SH", "savedPhotosAlbum"]
+- !private ["SH", "sourceRect"]
+- !private ["SH", "sourceType"]
+- !private ["SH", "sourceView"]
+- !private ["SH", "subscript"]
+- !private ["SH", "typeHigh"]
+- !private ["SH", "userInterfaceIdiom"]
+- !private ["SH", "videoQuality"]
+- ["10BharatScan11ImagePickerC", "ImagePickerDelegate"]
+- !private ["10BharatScan11ImagePickerC", "NSString"]
+- ["10BharatScan11ImagePickerC", "NSURL"]
+- ["10BharatScan11ImagePickerC", "String"]
+- ["10BharatScan11ImagePickerC", "UIAlertAction"]
+- !private ["10BharatScan11ImagePickerC", "UIAlertController"]
+- !private ["10BharatScan11ImagePickerC", "UIDevice"]
+- ["10BharatScan11ImagePickerC", "UIImage"]
+- ["10BharatScan11ImagePickerC", "UIImagePickerController"]
+- ["10BharatScan11ImagePickerC", "UIView"]
+- ["10BharatScan11ImagePickerC", "UIViewController"]
+- !private ["10BharatScan11ImagePickerC", "action"]
+- ["10BharatScan11ImagePickerC", "deinit"]
+- !private ["10BharatScan11ImagePickerC", "delegate"]
+- ["10BharatScan11ImagePickerC", "imagePickerController"]
+- ["10BharatScan11ImagePickerC", "imagePickerControllerDidCancel"]
+- ["10BharatScan11ImagePickerC", "init"]
+- ["10BharatScan11ImagePickerC", "navigationController"]
+- ["10BharatScan11ImagePickerC", "navigationControllerPreferredInterfaceOrientationForPresentation"]
+- ["10BharatScan11ImagePickerC", "navigationControllerSupportedInterfaceOrientations"]
+- !private ["10BharatScan11ImagePickerC", "pickerController"]
+- !private ["10BharatScan11ImagePickerC", "pickerController_media"]
+- ["10BharatScan11ImagePickerC", "present"]
+- !private ["10BharatScan11ImagePickerC", "presentationController"]
+- ["10BharatScan19ImagePickerDelegateP", "NSURL"]
+- ["10BharatScan19ImagePickerDelegateP", "UIImage"]
+- ["10BharatScan19ImagePickerDelegateP", "didSelect"]
+- ["10BharatScan19ImagePickerDelegateP", "didSelect_media"]
+- !private ["SD5IndexV", "editedImage"]
+- !private ["So30UIImagePickerControllerInfoKeya", "editedImage"]
+- !private ["So30UIImagePickerControllerInfoKeya", "mediaType"]
+- !private ["So30UIImagePickerControllerInfoKeya", "mediaURL"]
+- ["So8NSCodingP", "InfoKey"]
+- ["So8NSCodingP", "SourceType"]
+- !private ["So8NSCodingP", "addAction"]
+- !private ["So8NSCodingP", "allowsEditing"]
+- !private ["So8NSCodingP", "bounds"]
+- !private ["So8NSCodingP", "callAsFunction"]
+- !private ["So8NSCodingP", "delegate"]
+- !private ["So8NSCodingP", "dismiss"]
+- !private ["So8NSCodingP", "init"]
+- !private ["So8NSCodingP", "isSourceTypeAvailable"]
+- !private ["So8NSCodingP", "mediaTypes"]
+- !private ["So8NSCodingP", "popoverPresentationController"]
+- !private ["So8NSCodingP", "present"]
+- !private ["So8NSCodingP", "sourceType"]
+- !private ["So8NSCodingP", "videoQuality"]
+- !private ["So9NSCopyingP", "init"]
+- ["So26NSExtensionRequestHandlingP", "InfoKey"]
+- ["So26NSExtensionRequestHandlingP", "SourceType"]
+- !private ["So26NSExtensionRequestHandlingP", "addAction"]
+- !private ["So26NSExtensionRequestHandlingP", "allowsEditing"]
+- !private ["So26NSExtensionRequestHandlingP", "callAsFunction"]
+- !private ["So26NSExtensionRequestHandlingP", "delegate"]
+- !private ["So26NSExtensionRequestHandlingP", "dismiss"]
+- !private ["So26NSExtensionRequestHandlingP", "init"]
+- !private ["So26NSExtensionRequestHandlingP", "isSourceTypeAvailable"]
+- !private ["So26NSExtensionRequestHandlingP", "mediaTypes"]
+- !private ["So26NSExtensionRequestHandlingP", "popoverPresentationController"]
+- !private ["So26NSExtensionRequestHandlingP", "present"]
+- !private ["So26NSExtensionRequestHandlingP", "sourceType"]
+- !private ["So26NSExtensionRequestHandlingP", "videoQuality"]
+- ["So8NSObjectC", "ImagePickerDelegate"]
+- ["So8NSObjectC", "InfoKey"]
+- !private ["So8NSObjectC", "NSString"]
+- ["So8NSObjectC", "NSURL"]
+- ["So8NSObjectC", "SourceType"]
+- ["So8NSObjectC", "String"]
+- ["So8NSObjectC", "UIAlertAction"]
+- !private ["So8NSObjectC", "UIAlertController"]
+- !private ["So8NSObjectC", "UIDevice"]
+- ["So8NSObjectC", "UIImage"]
+- ["So8NSObjectC", "UIImagePickerController"]
+- ["So8NSObjectC", "UIView"]
+- ["So8NSObjectC", "UIViewController"]
+- ["So8NSObjectC", ""]
+- ["So8NSObjectC", "action"]
+- !private ["So8NSObjectC", "addAction"]
+- !private ["So8NSObjectC", "allowsEditing"]
+- !private ["So8NSObjectC", "bounds"]
+- !private ["So8NSObjectC", "callAsFunction"]
+- !private ["So8NSObjectC", "current"]
+- ["So8NSObjectC", "delegate"]
+- !private ["So8NSObjectC", "dismiss"]
+- ["So8NSObjectC", "imagePickerController"]
+- ["So8NSObjectC", "imagePickerControllerDidCancel"]
+- ["So8NSObjectC", "init"]
+- !private ["So8NSObjectC", "isSourceTypeAvailable"]
+- !private ["So8NSObjectC", "mediaTypes"]
+- ["So8NSObjectC", "navigationController"]
+- ["So8NSObjectC", "navigationControllerPreferredInterfaceOrientationForPresentation"]
+- ["So8NSObjectC", "navigationControllerSupportedInterfaceOrientations"]
+- !private ["So8NSObjectC", "permittedArrowDirections"]
+- ["So8NSObjectC", "pickerController"]
+- ["So8NSObjectC", "pickerController_media"]
+- !private ["So8NSObjectC", "popoverPresentationController"]
+- ["So8NSObjectC", "present"]
+- ["So8NSObjectC", "presentationController"]
+- !private ["So8NSObjectC", "sourceRect"]
+- !private ["So8NSObjectC", "sourceType"]
+- !private ["So8NSObjectC", "sourceView"]
+- !private ["So8NSObjectC", "userInterfaceIdiom"]
+- !private ["So8NSObjectC", "videoQuality"]
+- ["So8NSObjectP", "InfoKey"]
+- ["So8NSObjectP", "SourceType"]
+- !private ["So8NSObjectP", "UIAlertAction"]
+- !private ["So8NSObjectP", "UIAlertController"]
+- !private ["So8NSObjectP", "UIDevice"]
+- !private ["So8NSObjectP", "UIImagePickerController"]
+- ["So8NSObjectP", ""]
+- !private ["So8NSObjectP", "action"]
+- !private ["So8NSObjectP", "addAction"]
+- !private ["So8NSObjectP", "allowsEditing"]
+- !private ["So8NSObjectP", "bounds"]
+- !private ["So8NSObjectP", "callAsFunction"]
+- !private ["So8NSObjectP", "current"]
+- !private ["So8NSObjectP", "delegate"]
+- !private ["So8NSObjectP", "dismiss"]
+- ["So8NSObjectP", "imagePickerController"]
+- ["So8NSObjectP", "imagePickerControllerDidCancel"]
+- !private ["So8NSObjectP", "init"]
+- !private ["So8NSObjectP", "isSourceTypeAvailable"]
+- !private ["So8NSObjectP", "mediaTypes"]
+- ["So8NSObjectP", "navigationController"]
+- ["So8NSObjectP", "navigationControllerPreferredInterfaceOrientationForPresentation"]
+- ["So8NSObjectP", "navigationControllerSupportedInterfaceOrientations"]
+- !private ["So8NSObjectP", "permittedArrowDirections"]
+- !private ["So8NSObjectP", "pickerController"]
+- !private ["So8NSObjectP", "pickerController_media"]
+- !private ["So8NSObjectP", "popoverPresentationController"]
+- !private ["So8NSObjectP", "present"]
+- !private ["So8NSObjectP", "presentationController"]
+- !private ["So8NSObjectP", "sourceRect"]
+- !private ["So8NSObjectP", "sourceType"]
+- !private ["So8NSObjectP", "sourceView"]
+- !private ["So8NSObjectP", "userInterfaceIdiom"]
+- !private ["So8NSObjectP", "videoQuality"]
+- !private ["s9OptionSetP", "down"]
+- !private ["s9OptionSetP", "up"]
+- !private ["So34UIImagePickerControllerQualityTypeV", "typeHigh"]
+- !private ["Sk", "editedImage"]
+- !private ["Sn", "editedImage"]
+- !private ["SX", "editedImage"]
+- !private ["SY", "actionSheet"]
+- !private ["SY", "camera"]
+- !private ["SY", "cancel"]
+- !private ["SY", "default"]
+- !private ["SY", "down"]
+- !private ["SY", "editedImage"]
+- !private ["SY", "mediaType"]
+- !private ["SY", "mediaURL"]
+- !private ["SY", "pad"]
+- !private ["SY", "photoLibrary"]
+- !private ["SY", "savedPhotosAlbum"]
+- !private ["SY", "typeHigh"]
+- !private ["SY", "up"]
+- !private ["ST", "editedImage"]
+- !private ["ST", "subscript"]
+- !private ["s10SetAlgebraP", "down"]
+- !private ["s10SetAlgebraP", "up"]
+- !private ["So33UIImagePickerControllerSourceTypeV", "camera"]
+- !private ["So33UIImagePickerControllerSourceTypeV", "photoLibrary"]
+- !private ["So33UIImagePickerControllerSourceTypeV", "savedPhotosAlbum"]
+- !private ["So22UIAlertControllerStyleV", "actionSheet"]
+- !private ["So18UIAlertActionStyleV", "cancel"]
+- !private ["So18UIAlertActionStyleV", "default"]
+- !private ["So29UIAccessibilityIdentificationP", "bounds"]
+- !private ["So13UIAlertActionC", "init"]
+- !private ["So17UIAlertControllerC", "addAction"]
+- !private ["So17UIAlertControllerC", "init"]
+- !private ["So17UIAlertControllerC", "popoverPresentationController"]
+- !private ["So12UIAppearanceP", "bounds"]
+- ["So21UIAppearanceContainerP", "InfoKey"]
+- ["So21UIAppearanceContainerP", "SourceType"]
+- !private ["So21UIAppearanceContainerP", "addAction"]
+- !private ["So21UIAppearanceContainerP", "allowsEditing"]
+- !private ["So21UIAppearanceContainerP", "bounds"]
+- !private ["So21UIAppearanceContainerP", "callAsFunction"]
+- !private ["So21UIAppearanceContainerP", "delegate"]
+- !private ["So21UIAppearanceContainerP", "dismiss"]
+- !private ["So21UIAppearanceContainerP", "init"]
+- !private ["So21UIAppearanceContainerP", "isSourceTypeAvailable"]
+- !private ["So21UIAppearanceContainerP", "mediaTypes"]
+- !private ["So21UIAppearanceContainerP", "permittedArrowDirections"]
+- !private ["So21UIAppearanceContainerP", "popoverPresentationController"]
+- !private ["So21UIAppearanceContainerP", "present"]
+- !private ["So21UIAppearanceContainerP", "sourceRect"]
+- !private ["So21UIAppearanceContainerP", "sourceType"]
+- !private ["So21UIAppearanceContainerP", "sourceView"]
+- !private ["So21UIAppearanceContainerP", "videoQuality"]
+- ["So18UIContentContainerP", "InfoKey"]
+- ["So18UIContentContainerP", "SourceType"]
+- !private ["So18UIContentContainerP", "addAction"]
+- !private ["So18UIContentContainerP", "allowsEditing"]
+- !private ["So18UIContentContainerP", "callAsFunction"]
+- !private ["So18UIContentContainerP", "delegate"]
+- !private ["So18UIContentContainerP", "dismiss"]
+- !private ["So18UIContentContainerP", "init"]
+- !private ["So18UIContentContainerP", "isSourceTypeAvailable"]
+- !private ["So18UIContentContainerP", "mediaTypes"]
+- !private ["So18UIContentContainerP", "permittedArrowDirections"]
+- !private ["So18UIContentContainerP", "popoverPresentationController"]
+- !private ["So18UIContentContainerP", "present"]
+- !private ["So18UIContentContainerP", "sourceRect"]
+- !private ["So18UIContentContainerP", "sourceType"]
+- !private ["So18UIContentContainerP", "sourceView"]
+- !private ["So18UIContentContainerP", "videoQuality"]
+- !private ["So17UICoordinateSpaceP", "bounds"]
+- !private ["So8UIDeviceC", "current"]
+- !private ["So8UIDeviceC", "userInterfaceIdiom"]
+- !private ["So13UIDynamicItemP", "bounds"]
+- ["So18UIFocusEnvironmentP", "InfoKey"]
+- ["So18UIFocusEnvironmentP", "SourceType"]
+- !private ["So18UIFocusEnvironmentP", "addAction"]
+- !private ["So18UIFocusEnvironmentP", "allowsEditing"]
+- !private ["So18UIFocusEnvironmentP", "bounds"]
+- !private ["So18UIFocusEnvironmentP", "callAsFunction"]
+- !private ["So18UIFocusEnvironmentP", "delegate"]
+- !private ["So18UIFocusEnvironmentP", "dismiss"]
+- !private ["So18UIFocusEnvironmentP", "init"]
+- !private ["So18UIFocusEnvironmentP", "isSourceTypeAvailable"]
+- !private ["So18UIFocusEnvironmentP", "mediaTypes"]
+- !private ["So18UIFocusEnvironmentP", "permittedArrowDirections"]
+- !private ["So18UIFocusEnvironmentP", "popoverPresentationController"]
+- !private ["So18UIFocusEnvironmentP", "present"]
+- !private ["So18UIFocusEnvironmentP", "sourceRect"]
+- !private ["So18UIFocusEnvironmentP", "sourceType"]
+- !private ["So18UIFocusEnvironmentP", "sourceView"]
+- !private ["So18UIFocusEnvironmentP", "videoQuality"]
+- !private ["So11UIFocusItemP", "bounds"]
+- !private ["So20UIFocusItemContainerP", "bounds"]
+- ["So23UIImagePickerControllerC", "InfoKey"]
+- ["So23UIImagePickerControllerC", "SourceType"]
+- !private ["So23UIImagePickerControllerC", "allowsEditing"]
+- !private ["So23UIImagePickerControllerC", "callAsFunction"]
+- !private ["So23UIImagePickerControllerC", "delegate"]
+- !private ["So23UIImagePickerControllerC", "dismiss"]
+- !private ["So23UIImagePickerControllerC", "init"]
+- !private ["So23UIImagePickerControllerC", "isSourceTypeAvailable"]
+- !private ["So23UIImagePickerControllerC", "mediaTypes"]
+- !private ["So23UIImagePickerControllerC", "sourceType"]
+- !private ["So23UIImagePickerControllerC", "videoQuality"]
+- !private ["So31UIImagePickerControllerDelegateP", "UIAlertAction"]
+- !private ["So31UIImagePickerControllerDelegateP", "UIAlertController"]
+- !private ["So31UIImagePickerControllerDelegateP", "UIDevice"]
+- !private ["So31UIImagePickerControllerDelegateP", "UIImagePickerController"]
+- ["So31UIImagePickerControllerDelegateP", ""]
+- !private ["So31UIImagePickerControllerDelegateP", "action"]
+- !private ["So31UIImagePickerControllerDelegateP", "delegate"]
+- ["So31UIImagePickerControllerDelegateP", "imagePickerController"]
+- ["So31UIImagePickerControllerDelegateP", "imagePickerControllerDidCancel"]
+- ["So31UIImagePickerControllerDelegateP", "navigationController"]
+- ["So31UIImagePickerControllerDelegateP", "navigationControllerPreferredInterfaceOrientationForPresentation"]
+- ["So31UIImagePickerControllerDelegateP", "navigationControllerSupportedInterfaceOrientations"]
+- !private ["So31UIImagePickerControllerDelegateP", "pickerController"]
+- !private ["So31UIImagePickerControllerDelegateP", "pickerController_media"]
+- !private ["So31UIImagePickerControllerDelegateP", "presentationController"]
+- !private ["So24UILargeContentViewerItemP", "bounds"]
+- ["So22UINavigationControllerC", "InfoKey"]
+- ["So22UINavigationControllerC", "SourceType"]
+- !private ["So22UINavigationControllerC", "allowsEditing"]
+- !private ["So22UINavigationControllerC", "callAsFunction"]
+- !private ["So22UINavigationControllerC", "delegate"]
+- !private ["So22UINavigationControllerC", "dismiss"]
+- !private ["So22UINavigationControllerC", "init"]
+- !private ["So22UINavigationControllerC", "isSourceTypeAvailable"]
+- !private ["So22UINavigationControllerC", "mediaTypes"]
+- !private ["So22UINavigationControllerC", "sourceType"]
+- !private ["So22UINavigationControllerC", "videoQuality"]
+- !private ["So30UINavigationControllerDelegateP", "UIAlertAction"]
+- !private ["So30UINavigationControllerDelegateP", "UIAlertController"]
+- !private ["So30UINavigationControllerDelegateP", "UIDevice"]
+- !private ["So30UINavigationControllerDelegateP", "UIImagePickerController"]
+- ["So30UINavigationControllerDelegateP", ""]
+- !private ["So30UINavigationControllerDelegateP", "action"]
+- !private ["So30UINavigationControllerDelegateP", "delegate"]
+- ["So30UINavigationControllerDelegateP", "imagePickerController"]
+- ["So30UINavigationControllerDelegateP", "imagePickerControllerDidCancel"]
+- ["So30UINavigationControllerDelegateP", "navigationController"]
+- ["So30UINavigationControllerDelegateP", "navigationControllerPreferredInterfaceOrientationForPresentation"]
+- ["So30UINavigationControllerDelegateP", "navigationControllerSupportedInterfaceOrientations"]
+- !private ["So30UINavigationControllerDelegateP", "pickerController"]
+- !private ["So30UINavigationControllerDelegateP", "pickerController_media"]
+- !private ["So30UINavigationControllerDelegateP", "presentationController"]
+- ["So30UIPasteConfigurationSupportingP", "InfoKey"]
+- ["So30UIPasteConfigurationSupportingP", "SourceType"]
+- !private ["So30UIPasteConfigurationSupportingP", "addAction"]
+- !private ["So30UIPasteConfigurationSupportingP", "allowsEditing"]
+- !private ["So30UIPasteConfigurationSupportingP", "bounds"]
+- !private ["So30UIPasteConfigurationSupportingP", "callAsFunction"]
+- !private ["So30UIPasteConfigurationSupportingP", "delegate"]
+- !private ["So30UIPasteConfigurationSupportingP", "dismiss"]
+- !private ["So30UIPasteConfigurationSupportingP", "init"]
+- !private ["So30UIPasteConfigurationSupportingP", "isSourceTypeAvailable"]
+- !private ["So30UIPasteConfigurationSupportingP", "mediaTypes"]
+- !private ["So30UIPasteConfigurationSupportingP", "popoverPresentationController"]
+- !private ["So30UIPasteConfigurationSupportingP", "present"]
+- !private ["So30UIPasteConfigurationSupportingP", "sourceType"]
+- !private ["So30UIPasteConfigurationSupportingP", "videoQuality"]
+- !private ["So23UIPopoverArrowDirectionV", "down"]
+- !private ["So23UIPopoverArrowDirectionV", "up"]
+- !private ["So31UIPopoverPresentationControllerC", "permittedArrowDirections"]
+- !private ["So31UIPopoverPresentationControllerC", "sourceRect"]
+- !private ["So31UIPopoverPresentationControllerC", "sourceView"]
+- !private ["So24UIPresentationControllerC", "permittedArrowDirections"]
+- !private ["So24UIPresentationControllerC", "sourceRect"]
+- !private ["So24UIPresentationControllerC", "sourceView"]
+- ["So11UIResponderC", "InfoKey"]
+- ["So11UIResponderC", "SourceType"]
+- !private ["So11UIResponderC", "addAction"]
+- !private ["So11UIResponderC", "allowsEditing"]
+- !private ["So11UIResponderC", "bounds"]
+- !private ["So11UIResponderC", "callAsFunction"]
+- !private ["So11UIResponderC", "delegate"]
+- !private ["So11UIResponderC", "dismiss"]
+- !private ["So11UIResponderC", "init"]
+- !private ["So11UIResponderC", "isSourceTypeAvailable"]
+- !private ["So11UIResponderC", "mediaTypes"]
+- !private ["So11UIResponderC", "popoverPresentationController"]
+- !private ["So11UIResponderC", "present"]
+- !private ["So11UIResponderC", "sourceType"]
+- !private ["So11UIResponderC", "videoQuality"]
+- ["So30UIResponderStandardEditActionsP", "InfoKey"]
+- ["So30UIResponderStandardEditActionsP", "SourceType"]
+- !private ["So30UIResponderStandardEditActionsP", "addAction"]
+- !private ["So30UIResponderStandardEditActionsP", "allowsEditing"]
+- !private ["So30UIResponderStandardEditActionsP", "bounds"]
+- !private ["So30UIResponderStandardEditActionsP", "callAsFunction"]
+- !private ["So30UIResponderStandardEditActionsP", "delegate"]
+- !private ["So30UIResponderStandardEditActionsP", "dismiss"]
+- !private ["So30UIResponderStandardEditActionsP", "init"]
+- !private ["So30UIResponderStandardEditActionsP", "isSourceTypeAvailable"]
+- !private ["So30UIResponderStandardEditActionsP", "mediaTypes"]
+- !private ["So30UIResponderStandardEditActionsP", "popoverPresentationController"]
+- !private ["So30UIResponderStandardEditActionsP", "present"]
+- !private ["So30UIResponderStandardEditActionsP", "sourceType"]
+- !private ["So30UIResponderStandardEditActionsP", "videoQuality"]
+- !private ["So35UISpringLoadedInteractionSupportingP", "addAction"]
+- !private ["So35UISpringLoadedInteractionSupportingP", "init"]
+- !private ["So35UISpringLoadedInteractionSupportingP", "popoverPresentationController"]
+- ["So16UIStateRestoringP", "InfoKey"]
+- ["So16UIStateRestoringP", "SourceType"]
+- !private ["So16UIStateRestoringP", "addAction"]
+- !private ["So16UIStateRestoringP", "allowsEditing"]
+- !private ["So16UIStateRestoringP", "callAsFunction"]
+- !private ["So16UIStateRestoringP", "delegate"]
+- !private ["So16UIStateRestoringP", "dismiss"]
+- !private ["So16UIStateRestoringP", "init"]
+- !private ["So16UIStateRestoringP", "isSourceTypeAvailable"]
+- !private ["So16UIStateRestoringP", "mediaTypes"]
+- !private ["So16UIStateRestoringP", "popoverPresentationController"]
+- !private ["So16UIStateRestoringP", "present"]
+- !private ["So16UIStateRestoringP", "sourceType"]
+- !private ["So16UIStateRestoringP", "videoQuality"]
+- ["So18UITraitEnvironmentP", "InfoKey"]
+- ["So18UITraitEnvironmentP", "SourceType"]
+- !private ["So18UITraitEnvironmentP", "addAction"]
+- !private ["So18UITraitEnvironmentP", "allowsEditing"]
+- !private ["So18UITraitEnvironmentP", "bounds"]
+- !private ["So18UITraitEnvironmentP", "callAsFunction"]
+- !private ["So18UITraitEnvironmentP", "delegate"]
+- !private ["So18UITraitEnvironmentP", "dismiss"]
+- !private ["So18UITraitEnvironmentP", "init"]
+- !private ["So18UITraitEnvironmentP", "isSourceTypeAvailable"]
+- !private ["So18UITraitEnvironmentP", "mediaTypes"]
+- !private ["So18UITraitEnvironmentP", "permittedArrowDirections"]
+- !private ["So18UITraitEnvironmentP", "popoverPresentationController"]
+- !private ["So18UITraitEnvironmentP", "present"]
+- !private ["So18UITraitEnvironmentP", "sourceRect"]
+- !private ["So18UITraitEnvironmentP", "sourceType"]
+- !private ["So18UITraitEnvironmentP", "sourceView"]
+- !private ["So18UITraitEnvironmentP", "videoQuality"]
+- ["So23UIUserActivityRestoringP", "InfoKey"]
+- ["So23UIUserActivityRestoringP", "SourceType"]
+- !private ["So23UIUserActivityRestoringP", "addAction"]
+- !private ["So23UIUserActivityRestoringP", "allowsEditing"]
+- !private ["So23UIUserActivityRestoringP", "bounds"]
+- !private ["So23UIUserActivityRestoringP", "callAsFunction"]
+- !private ["So23UIUserActivityRestoringP", "delegate"]
+- !private ["So23UIUserActivityRestoringP", "dismiss"]
+- !private ["So23UIUserActivityRestoringP", "init"]
+- !private ["So23UIUserActivityRestoringP", "isSourceTypeAvailable"]
+- !private ["So23UIUserActivityRestoringP", "mediaTypes"]
+- !private ["So23UIUserActivityRestoringP", "popoverPresentationController"]
+- !private ["So23UIUserActivityRestoringP", "present"]
+- !private ["So23UIUserActivityRestoringP", "sourceType"]
+- !private ["So23UIUserActivityRestoringP", "videoQuality"]
+- !private ["So20UIUserInterfaceIdiomV", "pad"]
+- !private ["So6UIViewC", "bounds"]
+- ["So16UIViewControllerC", "InfoKey"]
+- ["So16UIViewControllerC", "SourceType"]
+- !private ["So16UIViewControllerC", "addAction"]
+- !private ["So16UIViewControllerC", "allowsEditing"]
+- !private ["So16UIViewControllerC", "callAsFunction"]
+- !private ["So16UIViewControllerC", "delegate"]
+- !private ["So16UIViewControllerC", "dismiss"]
+- !private ["So16UIViewControllerC", "init"]
+- !private ["So16UIViewControllerC", "isSourceTypeAvailable"]
+- !private ["So16UIViewControllerC", "mediaTypes"]
+- !private ["So16UIViewControllerC", "popoverPresentationController"]
+- !private ["So16UIViewControllerC", "present"]
+- !private ["So16UIViewControllerC", "sourceType"]
+- !private ["So16UIViewControllerC", "videoQuality"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "editedImage"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "mediaType"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "mediaURL"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "subscript"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "InfoKey"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "SourceType"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "UIAlertAction"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "UIAlertController"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "UIDevice"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "UIImagePickerController"]
+- ["10Foundation27_KeyValueCodingAndObservingP", ""]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "action"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "addAction"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "allowsEditing"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "bounds"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "callAsFunction"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "current"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "delegate"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "dismiss"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "imagePickerController"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "imagePickerControllerDidCancel"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "isSourceTypeAvailable"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "mediaTypes"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "navigationController"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "navigationControllerPreferredInterfaceOrientationForPresentation"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "navigationControllerSupportedInterfaceOrientations"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "permittedArrowDirections"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "pickerController"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "pickerController_media"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "popoverPresentationController"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "present"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "presentationController"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "sourceRect"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "sourceType"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "sourceView"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "userInterfaceIdiom"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "videoQuality"]
+- ["10Foundation37_KeyValueCodingAndObservingPublishingP", "InfoKey"]
+- ["10Foundation37_KeyValueCodingAndObservingPublishingP", "SourceType"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "UIAlertAction"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "UIAlertController"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "UIDevice"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "UIImagePickerController"]
+- ["10Foundation37_KeyValueCodingAndObservingPublishingP", ""]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "action"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "addAction"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "allowsEditing"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "bounds"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "callAsFunction"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "current"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "delegate"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "dismiss"]
+- ["10Foundation37_KeyValueCodingAndObservingPublishingP", "imagePickerController"]
+- ["10Foundation37_KeyValueCodingAndObservingPublishingP", "imagePickerControllerDidCancel"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "init"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "isSourceTypeAvailable"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "mediaTypes"]
+- ["10Foundation37_KeyValueCodingAndObservingPublishingP", "navigationController"]
+- ["10Foundation37_KeyValueCodingAndObservingPublishingP", "navigationControllerPreferredInterfaceOrientationForPresentation"]
+- ["10Foundation37_KeyValueCodingAndObservingPublishingP", "navigationControllerSupportedInterfaceOrientations"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "permittedArrowDirections"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "pickerController"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "pickerController_media"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "popoverPresentationController"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "present"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "presentationController"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "sourceRect"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "sourceType"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "sourceView"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "userInterfaceIdiom"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "videoQuality"]
+- !private ["s21_ObjectiveCBridgeableP", "editedImage"]
+- !private ["s21_ObjectiveCBridgeableP", "mediaType"]
+- !private ["s21_ObjectiveCBridgeableP", "mediaURL"]
+- !private ["s21_ObjectiveCBridgeableP", "subscript"]
+- !private ["s20_SwiftNewtypeWrapperP", "editedImage"]
+- !private ["s20_SwiftNewtypeWrapperP", "mediaType"]
+- !private ["s20_SwiftNewtypeWrapperP", "mediaURL"]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "bounds"]
+depends-nominal:
+- !private "SK"
+- !private "So15CALayerDelegateP"
+- "s7CVarArgP"
+- !private "Sl"
+- !private "SL"
+- "s28CustomDebugStringConvertibleP"
+- !private "s17CustomReflectableP"
+- "s23CustomStringConvertibleP"
+- !private "Se"
+- !private "SD"
+- !private "SE"
+- "SQ"
+- !private "s25ExpressibleByArrayLiteralP"
+- !private "s30ExpressibleByDictionaryLiteralP"
+- "SH"
+- "10BharatScan11ImagePickerC"
+- "10BharatScan19ImagePickerDelegateP"
+- !private "SD5IndexV"
+- !private "So30UIImagePickerControllerInfoKeya"
+- "So8NSCodingP"
+- !private "So9NSCopyingP"
+- "So26NSExtensionRequestHandlingP"
+- "So8NSObjectC"
+- "So8NSObjectP"
+- !private "s9OptionSetP"
+- !private "So34UIImagePickerControllerQualityTypeV"
+- !private "Sk"
+- !private "Sn"
+- !private "SX"
+- !private "SY"
+- !private "ST"
+- !private "s10SetAlgebraP"
+- !private "So33UIImagePickerControllerSourceTypeV"
+- !private "So22UIAlertControllerStyleV"
+- !private "So18UIAlertActionStyleV"
+- !private "So29UIAccessibilityIdentificationP"
+- !private "So13UIAlertActionC"
+- !private "So17UIAlertControllerC"
+- !private "So12UIAppearanceP"
+- "So21UIAppearanceContainerP"
+- "So18UIContentContainerP"
+- !private "So17UICoordinateSpaceP"
+- !private "So8UIDeviceC"
+- !private "So13UIDynamicItemP"
+- "So18UIFocusEnvironmentP"
+- !private "So11UIFocusItemP"
+- !private "So20UIFocusItemContainerP"
+- "So23UIImagePickerControllerC"
+- "So31UIImagePickerControllerDelegateP"
+- !private "So24UILargeContentViewerItemP"
+- "So22UINavigationControllerC"
+- "So30UINavigationControllerDelegateP"
+- "So30UIPasteConfigurationSupportingP"
+- !private "So23UIPopoverArrowDirectionV"
+- !private "So31UIPopoverPresentationControllerC"
+- !private "So24UIPresentationControllerC"
+- "So11UIResponderC"
+- "So30UIResponderStandardEditActionsP"
+- !private "So35UISpringLoadedInteractionSupportingP"
+- "So16UIStateRestoringP"
+- "So18UITraitEnvironmentP"
+- "So23UIUserActivityRestoringP"
+- !private "So20UIUserInterfaceIdiomV"
+- !private "So6UIViewC"
+- "So16UIViewControllerC"
+- !private "s35_HasCustomAnyHashableRepresentationP"
+- "10Foundation27_KeyValueCodingAndObservingP"
+- "10Foundation37_KeyValueCodingAndObservingPublishingP"
+- !private "s21_ObjectiveCBridgeableP"
+- !private "s20_SwiftNewtypeWrapperP"
+- !private "s38__DefaultCustomPlaygroundQuickLookableP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/ObjectiveC.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreMIDI.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreML.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreMedia.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/simd.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreImage.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/QuartzCore.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Accelerate.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Dispatch.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Metal.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Darwin.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Vision.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Foundation.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/AVFoundation.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreFoundation.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreAudio.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreGraphics.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/os.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Swift.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/UIKit.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/SwiftOnoneSupport.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Combine.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Users/kumargaurav/Documents/My Projects/Scanner App/BharatScan/Build/Products/Debug-iphonesimulator/Alamofire/Alamofire.framework/Modules/Alamofire.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Users/kumargaurav/Documents/My Projects/Scanner App/BharatScan/Build/Products/Debug-iphonesimulator/IHKeyboardAvoiding/IHKeyboardAvoiding.framework/Modules/IHKeyboardAvoiding.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Users/kumargaurav/Documents/My Projects/Scanner App/BharatScan/Build/Products/Debug-iphonesimulator/WeScan/WeScan.framework/Modules/WeScan.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Users/kumargaurav/Documents/My Projects/Scanner App/BharatScan/Build/Products/Debug-iphonesimulator/BRYXBanner/BRYXBanner.framework/Modules/BRYXBanner.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Users/kumargaurav/Documents/My Projects/Scanner App/BharatScan/Build/Products/Debug-iphonesimulator/Hover/Hover.framework/Modules/Hover.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Users/kumargaurav/Documents/My Projects/Scanner App/BharatScan/Build/Products/Debug-iphonesimulator/ReachabilitySwift/Reachability.framework/Modules/Reachability.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Users/kumargaurav/Documents/My Projects/Scanner App/BharatScan/Build/Products/Debug-iphonesimulator/MBProgressHUD/MBProgressHUD.framework/Headers/MBProgressHUD.h"
+- "/Users/kumargaurav/Documents/My Projects/Scanner App/BharatScan/Build/Products/Debug-iphonesimulator/MBProgressHUD/MBProgressHUD.framework/Headers/MBProgressHUD-umbrella.h"
+- "/Users/kumargaurav/Documents/My Projects/Scanner App/BharatScan/Build/Products/Debug-iphonesimulator/Alamofire/Alamofire.framework/Headers/Alamofire-umbrella.h"
+- "/Users/kumargaurav/Documents/My Projects/Scanner App/BharatScan/Build/Products/Debug-iphonesimulator/IHKeyboardAvoiding/IHKeyboardAvoiding.framework/Headers/IHKeyboardAvoiding-umbrella.h"
+- "/Users/kumargaurav/Documents/My Projects/Scanner App/BharatScan/Build/Products/Debug-iphonesimulator/WeScan/WeScan.framework/Headers/WeScan-umbrella.h"
+- "/Users/kumargaurav/Documents/My Projects/Scanner App/BharatScan/Build/Products/Debug-iphonesimulator/BRYXBanner/BRYXBanner.framework/Headers/BRYXBanner-umbrella.h"
+- "/Users/kumargaurav/Documents/My Projects/Scanner App/BharatScan/Build/Products/Debug-iphonesimulator/Hover/Hover.framework/Headers/Hover-umbrella.h"
+- "/Users/kumargaurav/Documents/My Projects/Scanner App/BharatScan/Build/Products/Debug-iphonesimulator/ReachabilitySwift/Reachability.framework/Headers/ReachabilitySwift-umbrella.h"
+- "/Users/kumargaurav/Documents/My Projects/Scanner App/BharatScan/Build/Products/Debug-iphonesimulator/WeScan/WeScan.framework/Headers/WeScan.h"
+- "/Users/kumargaurav/Documents/My Projects/Scanner App/BharatScan/BharatScan/Utilities/BharatScan-Bridging-Header.h"
+- "/Users/kumargaurav/Documents/My Projects/Scanner App/BharatScan/Build/Products/Debug-iphonesimulator/Alamofire/Alamofire.framework/Headers/Alamofire-Swift.h"
+- "/Users/kumargaurav/Documents/My Projects/Scanner App/BharatScan/Build/Products/Debug-iphonesimulator/IHKeyboardAvoiding/IHKeyboardAvoiding.framework/Headers/IHKeyboardAvoiding-Swift.h"
+- "/Users/kumargaurav/Documents/My Projects/Scanner App/BharatScan/Build/Products/Debug-iphonesimulator/WeScan/WeScan.framework/Headers/WeScan-Swift.h"
+- "/Users/kumargaurav/Documents/My Projects/Scanner App/BharatScan/Build/Products/Debug-iphonesimulator/BRYXBanner/BRYXBanner.framework/Headers/BRYXBanner-Swift.h"
+- "/Users/kumargaurav/Documents/My Projects/Scanner App/BharatScan/Build/Products/Debug-iphonesimulator/Hover/Hover.framework/Headers/Hover-Swift.h"
+- "/Users/kumargaurav/Documents/My Projects/Scanner App/BharatScan/Build/Products/Debug-iphonesimulator/ReachabilitySwift/Reachability.framework/Headers/Reachability-Swift.h"
+- "/Users/kumargaurav/Documents/My Projects/Scanner App/BharatScan/Build/Products/Debug-iphonesimulator/MBProgressHUD/MBProgressHUD.framework/Modules/module.modulemap"
+- "/Users/kumargaurav/Documents/My Projects/Scanner App/BharatScan/Build/Products/Debug-iphonesimulator/Alamofire/Alamofire.framework/Modules/module.modulemap"
+- "/Users/kumargaurav/Documents/My Projects/Scanner App/BharatScan/Build/Products/Debug-iphonesimulator/IHKeyboardAvoiding/IHKeyboardAvoiding.framework/Modules/module.modulemap"
+- "/Users/kumargaurav/Documents/My Projects/Scanner App/BharatScan/Build/Products/Debug-iphonesimulator/WeScan/WeScan.framework/Modules/module.modulemap"
+- "/Users/kumargaurav/Documents/My Projects/Scanner App/BharatScan/Build/Products/Debug-iphonesimulator/BRYXBanner/BRYXBanner.framework/Modules/module.modulemap"
+- "/Users/kumargaurav/Documents/My Projects/Scanner App/BharatScan/Build/Products/Debug-iphonesimulator/Hover/Hover.framework/Modules/module.modulemap"
+- "/Users/kumargaurav/Documents/My Projects/Scanner App/BharatScan/Build/Products/Debug-iphonesimulator/ReachabilitySwift/Reachability.framework/Modules/module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.7.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.7.sdk/System/Library/Frameworks/CoreML.framework/Headers/CoreML.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.7.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.7.sdk/System/Library/Frameworks/CoreMedia.framework/Headers/CoreMedia.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.7.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.7.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.7.sdk/System/Library/Frameworks/Accelerate.framework/Headers/Accelerate.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/apinotes/Dispatch.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.7.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.7.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.7.sdk/System/Library/Frameworks/Vision.framework/Headers/Vision.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.7.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.7.sdk/System/Library/Frameworks/AVFoundation.framework/Headers/AVFoundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.7.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.7.sdk/System/Library/Frameworks/CoreAudioTypes.framework/Headers/CoreAudioTypes.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.7.sdk/System/Library/Frameworks/UserNotifications.framework/Headers/UserNotifications.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/apinotes/os.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.7.sdk/System/Library/Frameworks/PDFKit.framework/Headers/PDFKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.7.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.7.sdk/System/Library/Frameworks/WebKit.framework/Headers/WebKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.7.sdk/System/Library/Frameworks/VisionKit.framework/Headers/VisionKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.7.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.7.sdk/System/Library/Frameworks/MediaToolbox.framework/Headers/MediaToolbox.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.7.sdk/System/Library/Frameworks/AudioToolbox.framework/Headers/AudioToolbox.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.7.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "66cb4bd23ec7b11c199944dffc9e1518"

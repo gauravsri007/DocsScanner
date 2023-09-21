@@ -1,0 +1,6 @@
+version: "Apple Swift version 5.2.4 (swiftlang-1103.0.32.9 clang-1103.0.32.53)"
+options: "b58bb0a89fbe4bce108640bd78747e27"
+build_time: [1601879183, 759950000]
+inputs:
+  "/Users/kumargaurav/Documents/My Projects/Scanner App/BharatScan/Pods/IHKeyboardAvoiding/Sources/KeyboardAvoiding.swift": [9223372036, 854775807]
+  "/Users/kumargaurav/Documents/My Projects/Scanner App/BharatScan/Pods/IHKeyboardAvoiding/Sources/KeyboardDismissingView.swift": [9223372036, 854775807]

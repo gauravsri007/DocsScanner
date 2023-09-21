@@ -1,0 +1,398 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "KeyboardDismissingView"
+provides-nominal:
+- "18IHKeyboardAvoiding22KeyboardDismissingViewC"
+provides-member:
+- ["18IHKeyboardAvoiding22KeyboardDismissingViewC", ""]
+provides-dynamic-lookup:
+- "dismissingBlock"
+- "resignAnyFirstResponder"
+- "touchEndedBlock"
+- "touchesEnded"
+depends-top-level:
+- "AssignmentPrecedence"
+- "Bool"
+- !private "BooleanLiteralType"
+- "CastingPrecedence"
+- "KeyboardDismissingView"
+- "Set"
+- "UIEvent"
+- !private "UISearchBar"
+- "UITouch"
+- "UIView"
+- "Void"
+- !private "||"
+depends-member:
+- !private ["So15CALayerDelegateP", "KeyboardDismissingView"]
+- ["So15CALayerDelegateP", ""]
+- !private ["So15CALayerDelegateP", "dismissingBlock"]
+- !private ["So15CALayerDelegateP", "isFirstResponder"]
+- !private ["So15CALayerDelegateP", "resignAnyFirstResponder"]
+- !private ["So15CALayerDelegateP", "resignFirstResponder"]
+- !private ["So15CALayerDelegateP", "setShowsCancelButton"]
+- !private ["So15CALayerDelegateP", "subviews"]
+- !private ["So15CALayerDelegateP", "touchEndedBlock"]
+- !private ["So15CALayerDelegateP", "touchesEnded"]
+- !private ["s7CVarArgP", "KeyboardDismissingView"]
+- ["s7CVarArgP", ""]
+- !private ["s7CVarArgP", "dismissingBlock"]
+- !private ["s7CVarArgP", "isFirstResponder"]
+- !private ["s7CVarArgP", "resignAnyFirstResponder"]
+- !private ["s7CVarArgP", "resignFirstResponder"]
+- !private ["s7CVarArgP", "setShowsCancelButton"]
+- !private ["s7CVarArgP", "subviews"]
+- !private ["s7CVarArgP", "touchEndedBlock"]
+- !private ["s7CVarArgP", "touchesEnded"]
+- !private ["s28CustomDebugStringConvertibleP", "KeyboardDismissingView"]
+- ["s28CustomDebugStringConvertibleP", ""]
+- !private ["s28CustomDebugStringConvertibleP", "dismissingBlock"]
+- !private ["s28CustomDebugStringConvertibleP", "isFirstResponder"]
+- !private ["s28CustomDebugStringConvertibleP", "resignAnyFirstResponder"]
+- !private ["s28CustomDebugStringConvertibleP", "resignFirstResponder"]
+- !private ["s28CustomDebugStringConvertibleP", "setShowsCancelButton"]
+- !private ["s28CustomDebugStringConvertibleP", "subviews"]
+- !private ["s28CustomDebugStringConvertibleP", "touchEndedBlock"]
+- !private ["s28CustomDebugStringConvertibleP", "touchesEnded"]
+- !private ["s23CustomStringConvertibleP", "KeyboardDismissingView"]
+- ["s23CustomStringConvertibleP", ""]
+- !private ["s23CustomStringConvertibleP", "dismissingBlock"]
+- !private ["s23CustomStringConvertibleP", "isFirstResponder"]
+- !private ["s23CustomStringConvertibleP", "resignAnyFirstResponder"]
+- !private ["s23CustomStringConvertibleP", "resignFirstResponder"]
+- !private ["s23CustomStringConvertibleP", "setShowsCancelButton"]
+- !private ["s23CustomStringConvertibleP", "subviews"]
+- !private ["s23CustomStringConvertibleP", "touchEndedBlock"]
+- !private ["s23CustomStringConvertibleP", "touchesEnded"]
+- !private ["SQ", "KeyboardDismissingView"]
+- ["SQ", ""]
+- !private ["SQ", "dismissingBlock"]
+- !private ["SQ", "isFirstResponder"]
+- !private ["SQ", "resignAnyFirstResponder"]
+- !private ["SQ", "resignFirstResponder"]
+- !private ["SQ", "setShowsCancelButton"]
+- !private ["SQ", "subviews"]
+- !private ["SQ", "touchEndedBlock"]
+- !private ["SQ", "touchesEnded"]
+- !private ["SH", "KeyboardDismissingView"]
+- ["SH", ""]
+- !private ["SH", "dismissingBlock"]
+- !private ["SH", "isFirstResponder"]
+- !private ["SH", "resignAnyFirstResponder"]
+- !private ["SH", "resignFirstResponder"]
+- !private ["SH", "setShowsCancelButton"]
+- !private ["SH", "subviews"]
+- !private ["SH", "touchEndedBlock"]
+- !private ["SH", "touchesEnded"]
+- ["18IHKeyboardAvoiding22KeyboardDismissingViewC", "Bool"]
+- !private ["18IHKeyboardAvoiding22KeyboardDismissingViewC", "KeyboardDismissingView"]
+- ["18IHKeyboardAvoiding22KeyboardDismissingViewC", "Set"]
+- ["18IHKeyboardAvoiding22KeyboardDismissingViewC", "UIEvent"]
+- !private ["18IHKeyboardAvoiding22KeyboardDismissingViewC", "UISearchBar"]
+- ["18IHKeyboardAvoiding22KeyboardDismissingViewC", "UITouch"]
+- ["18IHKeyboardAvoiding22KeyboardDismissingViewC", "UIView"]
+- ["18IHKeyboardAvoiding22KeyboardDismissingViewC", "Void"]
+- ["18IHKeyboardAvoiding22KeyboardDismissingViewC", "deinit"]
+- ["18IHKeyboardAvoiding22KeyboardDismissingViewC", "dismissingBlock"]
+- ["18IHKeyboardAvoiding22KeyboardDismissingViewC", "init"]
+- ["18IHKeyboardAvoiding22KeyboardDismissingViewC", "resignAnyFirstResponder"]
+- ["18IHKeyboardAvoiding22KeyboardDismissingViewC", "touchEndedBlock"]
+- ["18IHKeyboardAvoiding22KeyboardDismissingViewC", "touchesEnded"]
+- !private ["So8NSCodingP", "KeyboardDismissingView"]
+- ["So8NSCodingP", ""]
+- !private ["So8NSCodingP", "dismissingBlock"]
+- !private ["So8NSCodingP", "isFirstResponder"]
+- !private ["So8NSCodingP", "resignAnyFirstResponder"]
+- !private ["So8NSCodingP", "resignFirstResponder"]
+- !private ["So8NSCodingP", "setShowsCancelButton"]
+- !private ["So8NSCodingP", "subviews"]
+- !private ["So8NSCodingP", "touchEndedBlock"]
+- !private ["So8NSCodingP", "touchesEnded"]
+- ["So8NSObjectC", "Bool"]
+- !private ["So8NSObjectC", "KeyboardDismissingView"]
+- ["So8NSObjectC", "Set"]
+- ["So8NSObjectC", "UIEvent"]
+- !private ["So8NSObjectC", "UISearchBar"]
+- ["So8NSObjectC", "UITouch"]
+- ["So8NSObjectC", "UIView"]
+- ["So8NSObjectC", "Void"]
+- ["So8NSObjectC", "dismissingBlock"]
+- ["So8NSObjectC", "init"]
+- !private ["So8NSObjectC", "isFirstResponder"]
+- ["So8NSObjectC", "resignAnyFirstResponder"]
+- !private ["So8NSObjectC", "resignFirstResponder"]
+- !private ["So8NSObjectC", "setShowsCancelButton"]
+- !private ["So8NSObjectC", "subviews"]
+- ["So8NSObjectC", "touchEndedBlock"]
+- ["So8NSObjectC", "touchesEnded"]
+- !private ["So8NSObjectP", "KeyboardDismissingView"]
+- ["So8NSObjectP", ""]
+- !private ["So8NSObjectP", "dismissingBlock"]
+- !private ["So8NSObjectP", "isFirstResponder"]
+- !private ["So8NSObjectP", "resignAnyFirstResponder"]
+- !private ["So8NSObjectP", "resignFirstResponder"]
+- !private ["So8NSObjectP", "setShowsCancelButton"]
+- !private ["So8NSObjectP", "subviews"]
+- !private ["So8NSObjectP", "touchEndedBlock"]
+- !private ["So8NSObjectP", "touchesEnded"]
+- !private ["So29UIAccessibilityIdentificationP", "KeyboardDismissingView"]
+- ["So29UIAccessibilityIdentificationP", ""]
+- !private ["So29UIAccessibilityIdentificationP", "dismissingBlock"]
+- !private ["So29UIAccessibilityIdentificationP", "isFirstResponder"]
+- !private ["So29UIAccessibilityIdentificationP", "resignAnyFirstResponder"]
+- !private ["So29UIAccessibilityIdentificationP", "resignFirstResponder"]
+- !private ["So29UIAccessibilityIdentificationP", "setShowsCancelButton"]
+- !private ["So29UIAccessibilityIdentificationP", "subviews"]
+- !private ["So29UIAccessibilityIdentificationP", "touchEndedBlock"]
+- !private ["So29UIAccessibilityIdentificationP", "touchesEnded"]
+- !private ["So12UIAppearanceP", "KeyboardDismissingView"]
+- ["So12UIAppearanceP", ""]
+- !private ["So12UIAppearanceP", "dismissingBlock"]
+- !private ["So12UIAppearanceP", "isFirstResponder"]
+- !private ["So12UIAppearanceP", "resignAnyFirstResponder"]
+- !private ["So12UIAppearanceP", "resignFirstResponder"]
+- !private ["So12UIAppearanceP", "setShowsCancelButton"]
+- !private ["So12UIAppearanceP", "subviews"]
+- !private ["So12UIAppearanceP", "touchEndedBlock"]
+- !private ["So12UIAppearanceP", "touchesEnded"]
+- !private ["So21UIAppearanceContainerP", "KeyboardDismissingView"]
+- ["So21UIAppearanceContainerP", ""]
+- !private ["So21UIAppearanceContainerP", "dismissingBlock"]
+- !private ["So21UIAppearanceContainerP", "isFirstResponder"]
+- !private ["So21UIAppearanceContainerP", "resignAnyFirstResponder"]
+- !private ["So21UIAppearanceContainerP", "resignFirstResponder"]
+- !private ["So21UIAppearanceContainerP", "setShowsCancelButton"]
+- !private ["So21UIAppearanceContainerP", "subviews"]
+- !private ["So21UIAppearanceContainerP", "touchEndedBlock"]
+- !private ["So21UIAppearanceContainerP", "touchesEnded"]
+- !private ["So16UIBarPositioningP", "setShowsCancelButton"]
+- !private ["So17UICoordinateSpaceP", "KeyboardDismissingView"]
+- ["So17UICoordinateSpaceP", ""]
+- !private ["So17UICoordinateSpaceP", "dismissingBlock"]
+- !private ["So17UICoordinateSpaceP", "isFirstResponder"]
+- !private ["So17UICoordinateSpaceP", "resignAnyFirstResponder"]
+- !private ["So17UICoordinateSpaceP", "resignFirstResponder"]
+- !private ["So17UICoordinateSpaceP", "setShowsCancelButton"]
+- !private ["So17UICoordinateSpaceP", "subviews"]
+- !private ["So17UICoordinateSpaceP", "touchEndedBlock"]
+- !private ["So17UICoordinateSpaceP", "touchesEnded"]
+- !private ["So13UIDynamicItemP", "KeyboardDismissingView"]
+- ["So13UIDynamicItemP", ""]
+- !private ["So13UIDynamicItemP", "dismissingBlock"]
+- !private ["So13UIDynamicItemP", "isFirstResponder"]
+- !private ["So13UIDynamicItemP", "resignAnyFirstResponder"]
+- !private ["So13UIDynamicItemP", "resignFirstResponder"]
+- !private ["So13UIDynamicItemP", "setShowsCancelButton"]
+- !private ["So13UIDynamicItemP", "subviews"]
+- !private ["So13UIDynamicItemP", "touchEndedBlock"]
+- !private ["So13UIDynamicItemP", "touchesEnded"]
+- !private ["So18UIFocusEnvironmentP", "KeyboardDismissingView"]
+- ["So18UIFocusEnvironmentP", ""]
+- !private ["So18UIFocusEnvironmentP", "dismissingBlock"]
+- !private ["So18UIFocusEnvironmentP", "isFirstResponder"]
+- !private ["So18UIFocusEnvironmentP", "resignAnyFirstResponder"]
+- !private ["So18UIFocusEnvironmentP", "resignFirstResponder"]
+- !private ["So18UIFocusEnvironmentP", "setShowsCancelButton"]
+- !private ["So18UIFocusEnvironmentP", "subviews"]
+- !private ["So18UIFocusEnvironmentP", "touchEndedBlock"]
+- !private ["So18UIFocusEnvironmentP", "touchesEnded"]
+- !private ["So11UIFocusItemP", "KeyboardDismissingView"]
+- ["So11UIFocusItemP", ""]
+- !private ["So11UIFocusItemP", "dismissingBlock"]
+- !private ["So11UIFocusItemP", "isFirstResponder"]
+- !private ["So11UIFocusItemP", "resignAnyFirstResponder"]
+- !private ["So11UIFocusItemP", "resignFirstResponder"]
+- !private ["So11UIFocusItemP", "setShowsCancelButton"]
+- !private ["So11UIFocusItemP", "subviews"]
+- !private ["So11UIFocusItemP", "touchEndedBlock"]
+- !private ["So11UIFocusItemP", "touchesEnded"]
+- !private ["So20UIFocusItemContainerP", "KeyboardDismissingView"]
+- ["So20UIFocusItemContainerP", ""]
+- !private ["So20UIFocusItemContainerP", "dismissingBlock"]
+- !private ["So20UIFocusItemContainerP", "isFirstResponder"]
+- !private ["So20UIFocusItemContainerP", "resignAnyFirstResponder"]
+- !private ["So20UIFocusItemContainerP", "resignFirstResponder"]
+- !private ["So20UIFocusItemContainerP", "setShowsCancelButton"]
+- !private ["So20UIFocusItemContainerP", "subviews"]
+- !private ["So20UIFocusItemContainerP", "touchEndedBlock"]
+- !private ["So20UIFocusItemContainerP", "touchesEnded"]
+- !private ["So24UILargeContentViewerItemP", "KeyboardDismissingView"]
+- ["So24UILargeContentViewerItemP", ""]
+- !private ["So24UILargeContentViewerItemP", "dismissingBlock"]
+- !private ["So24UILargeContentViewerItemP", "isFirstResponder"]
+- !private ["So24UILargeContentViewerItemP", "resignAnyFirstResponder"]
+- !private ["So24UILargeContentViewerItemP", "resignFirstResponder"]
+- !private ["So24UILargeContentViewerItemP", "setShowsCancelButton"]
+- !private ["So24UILargeContentViewerItemP", "subviews"]
+- !private ["So24UILargeContentViewerItemP", "touchEndedBlock"]
+- !private ["So24UILargeContentViewerItemP", "touchesEnded"]
+- !private ["So30UIPasteConfigurationSupportingP", "KeyboardDismissingView"]
+- ["So30UIPasteConfigurationSupportingP", ""]
+- !private ["So30UIPasteConfigurationSupportingP", "dismissingBlock"]
+- !private ["So30UIPasteConfigurationSupportingP", "isFirstResponder"]
+- !private ["So30UIPasteConfigurationSupportingP", "resignAnyFirstResponder"]
+- !private ["So30UIPasteConfigurationSupportingP", "resignFirstResponder"]
+- !private ["So30UIPasteConfigurationSupportingP", "setShowsCancelButton"]
+- !private ["So30UIPasteConfigurationSupportingP", "subviews"]
+- !private ["So30UIPasteConfigurationSupportingP", "touchEndedBlock"]
+- !private ["So30UIPasteConfigurationSupportingP", "touchesEnded"]
+- ["So11UIResponderC", "Bool"]
+- !private ["So11UIResponderC", "KeyboardDismissingView"]
+- ["So11UIResponderC", "Set"]
+- ["So11UIResponderC", "UIEvent"]
+- !private ["So11UIResponderC", "UISearchBar"]
+- ["So11UIResponderC", "UITouch"]
+- ["So11UIResponderC", "UIView"]
+- ["So11UIResponderC", "Void"]
+- ["So11UIResponderC", "dismissingBlock"]
+- ["So11UIResponderC", "init"]
+- !private ["So11UIResponderC", "isFirstResponder"]
+- ["So11UIResponderC", "resignAnyFirstResponder"]
+- !private ["So11UIResponderC", "resignFirstResponder"]
+- !private ["So11UIResponderC", "setShowsCancelButton"]
+- !private ["So11UIResponderC", "subviews"]
+- ["So11UIResponderC", "touchEndedBlock"]
+- ["So11UIResponderC", "touchesEnded"]
+- !private ["So30UIResponderStandardEditActionsP", "KeyboardDismissingView"]
+- ["So30UIResponderStandardEditActionsP", ""]
+- !private ["So30UIResponderStandardEditActionsP", "dismissingBlock"]
+- !private ["So30UIResponderStandardEditActionsP", "isFirstResponder"]
+- !private ["So30UIResponderStandardEditActionsP", "resignAnyFirstResponder"]
+- !private ["So30UIResponderStandardEditActionsP", "resignFirstResponder"]
+- !private ["So30UIResponderStandardEditActionsP", "setShowsCancelButton"]
+- !private ["So30UIResponderStandardEditActionsP", "subviews"]
+- !private ["So30UIResponderStandardEditActionsP", "touchEndedBlock"]
+- !private ["So30UIResponderStandardEditActionsP", "touchesEnded"]
+- !private ["So11UISearchBarC", "setShowsCancelButton"]
+- !private ["So17UITextInputTraitsP", "setShowsCancelButton"]
+- !private ["So18UITraitEnvironmentP", "KeyboardDismissingView"]
+- ["So18UITraitEnvironmentP", ""]
+- !private ["So18UITraitEnvironmentP", "dismissingBlock"]
+- !private ["So18UITraitEnvironmentP", "isFirstResponder"]
+- !private ["So18UITraitEnvironmentP", "resignAnyFirstResponder"]
+- !private ["So18UITraitEnvironmentP", "resignFirstResponder"]
+- !private ["So18UITraitEnvironmentP", "setShowsCancelButton"]
+- !private ["So18UITraitEnvironmentP", "subviews"]
+- !private ["So18UITraitEnvironmentP", "touchEndedBlock"]
+- !private ["So18UITraitEnvironmentP", "touchesEnded"]
+- !private ["So23UIUserActivityRestoringP", "KeyboardDismissingView"]
+- ["So23UIUserActivityRestoringP", ""]
+- !private ["So23UIUserActivityRestoringP", "dismissingBlock"]
+- !private ["So23UIUserActivityRestoringP", "isFirstResponder"]
+- !private ["So23UIUserActivityRestoringP", "resignAnyFirstResponder"]
+- !private ["So23UIUserActivityRestoringP", "resignFirstResponder"]
+- !private ["So23UIUserActivityRestoringP", "setShowsCancelButton"]
+- !private ["So23UIUserActivityRestoringP", "subviews"]
+- !private ["So23UIUserActivityRestoringP", "touchEndedBlock"]
+- !private ["So23UIUserActivityRestoringP", "touchesEnded"]
+- ["So6UIViewC", "Bool"]
+- !private ["So6UIViewC", "KeyboardDismissingView"]
+- ["So6UIViewC", "Set"]
+- ["So6UIViewC", "UIEvent"]
+- !private ["So6UIViewC", "UISearchBar"]
+- ["So6UIViewC", "UITouch"]
+- ["So6UIViewC", "UIView"]
+- ["So6UIViewC", "Void"]
+- ["So6UIViewC", ""]
+- ["So6UIViewC", "dismissingBlock"]
+- ["So6UIViewC", "init"]
+- !private ["So6UIViewC", "isFirstResponder"]
+- ["So6UIViewC", "resignAnyFirstResponder"]
+- !private ["So6UIViewC", "resignFirstResponder"]
+- !private ["So6UIViewC", "setShowsCancelButton"]
+- !private ["So6UIViewC", "subviews"]
+- ["So6UIViewC", "touchEndedBlock"]
+- ["So6UIViewC", "touchesEnded"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "KeyboardDismissingView"]
+- ["10Foundation27_KeyValueCodingAndObservingP", ""]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "dismissingBlock"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "isFirstResponder"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "resignAnyFirstResponder"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "resignFirstResponder"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "setShowsCancelButton"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "subviews"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "touchEndedBlock"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "touchesEnded"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "KeyboardDismissingView"]
+- ["10Foundation37_KeyValueCodingAndObservingPublishingP", ""]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "dismissingBlock"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "isFirstResponder"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "resignAnyFirstResponder"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "resignFirstResponder"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "setShowsCancelButton"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "subviews"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "touchEndedBlock"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "touchesEnded"]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "KeyboardDismissingView"]
+- ["s38__DefaultCustomPlaygroundQuickLookableP", ""]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "dismissingBlock"]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "isFirstResponder"]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "resignAnyFirstResponder"]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "resignFirstResponder"]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "setShowsCancelButton"]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "subviews"]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "touchEndedBlock"]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "touchesEnded"]
+depends-nominal:
+- "So15CALayerDelegateP"
+- "s7CVarArgP"
+- "s28CustomDebugStringConvertibleP"
+- "s23CustomStringConvertibleP"
+- "SQ"
+- "SH"
+- "18IHKeyboardAvoiding22KeyboardDismissingViewC"
+- "So8NSCodingP"
+- "So8NSObjectC"
+- "So8NSObjectP"
+- "So29UIAccessibilityIdentificationP"
+- "So12UIAppearanceP"
+- "So21UIAppearanceContainerP"
+- !private "So16UIBarPositioningP"
+- "So17UICoordinateSpaceP"
+- "So13UIDynamicItemP"
+- "So18UIFocusEnvironmentP"
+- "So11UIFocusItemP"
+- "So20UIFocusItemContainerP"
+- "So24UILargeContentViewerItemP"
+- "So30UIPasteConfigurationSupportingP"
+- "So11UIResponderC"
+- "So30UIResponderStandardEditActionsP"
+- !private "So11UISearchBarC"
+- !private "So17UITextInputTraitsP"
+- "So18UITraitEnvironmentP"
+- "So23UIUserActivityRestoringP"
+- "So6UIViewC"
+- "10Foundation27_KeyValueCodingAndObservingP"
+- "10Foundation37_KeyValueCodingAndObservingPublishingP"
+- "s38__DefaultCustomPlaygroundQuickLookableP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/ObjectiveC.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreImage.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/QuartzCore.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Dispatch.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Metal.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Darwin.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Foundation.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreFoundation.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreGraphics.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Swift.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/UIKit.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/SwiftOnoneSupport.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Combine.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Users/kumargaurav/Documents/My Projects/Scanner App/BharatScan/Pods/Target Support Files/IHKeyboardAvoiding/IHKeyboardAvoiding-umbrella.h"
+- "/Users/kumargaurav/Documents/My Projects/Scanner App/BharatScan/Build/Intermediates/Pods.build/Debug-iphonesimulator/IHKeyboardAvoiding.build/unextended-module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.7.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.7.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.7.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.7.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/apinotes/Dispatch.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.7.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.7.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.7.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.7.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.7.sdk/System/Library/Frameworks/UserNotifications.framework/Headers/UserNotifications.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.7.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.7.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.7.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "ddf700572fe345b1d081b02d3b23efc1"
